@@ -1,12 +1,7 @@
-# Do You Want to Save Canada?
-## A Mini-Book in 5 Chapters
 
-This mini-book is organized into five chapter files:
+This mini-book is organized into four chapter files:
 
-1. [Do You Want to Save Canada?](do-you-want-to-save-canada.md)
-2. [From Politeness to Presence](from-politeness-to-presence.md)
-3. [Attendance Without Family](attendance-without-family.md)
-4. [Why the Young Are Leaving](why-the-young-are-leaving.md)
-5. [Church on Mission in Canada](church-on-mission-in-canada.md)
-
-Each chapter is provided as an individual markdown file (`chaptername.md`) for easier editing and publishing.
+1. [Do you want to save canada?](1-do-you-want-to-save-canada.md)
+2. [Go and Make disciples](2-go-and-make-disciples.md)
+3. [Program to Purpose](3-program-to-purpose.md)
+4. [Anxiety to Assignment](4-anxiety-to-assignment.md)
