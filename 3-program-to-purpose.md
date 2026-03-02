@@ -10,17 +10,9 @@ This chapter addresses that hidden crisis: **the difference between religious pa
 
 Canada values politeness, and politeness has civic value. But politeness is not the same as covenant love.
 
-In many congregations, community is cordial yet fragile:
+In many congregations, community is cordial yet fragile. Conflict is avoided rather than reconciled. Grief is acknowledged but not accompanied. Language of family is used without family practices.
 
-- conflict is avoided rather than reconciled,
-- grief is acknowledged but not accompanied,
-- language of family is used without family practices.
-
-People begin asking silent questions:
-
-- “If I disappeared, who would notice?”
-- “If my marriage broke, who would walk with us?”
-- “If my faith faltered, who would help me rebuild?”
+People begin asking silent questions: “If I disappeared, who would notice?” “If my marriage broke, who would walk with us?” “If my faith faltered, who would help me rebuild?”
 
 When those questions go unanswered, cynicism grows and trust erodes—especially among the young, who can quickly detect performative community.
 
@@ -52,12 +44,7 @@ Age, class, culture, and preference clusters limit the one-new-humanity witness 
 
 ## Scriptural Hope: The Church as Household, Body, and Table
 
-The New Testament does not describe the church as an audience. It describes the church as:
-
-- a **body** (interdependence),
-- a **household** (belonging),
-- a **priesthood** (shared responsibility),
-- and a **table community** (embodied fellowship).
+The New Testament does not describe the church as an audience. It describes the church as a body (interdependence), a household (belonging), a priesthood (shared responsibility), and a table community (embodied fellowship).
 
 “Love one another,” “bear one another’s burdens,” and “forgive one another” are not poetic slogans; they are structural commands for community life (Galatians 6:2; Ephesians 2:19; 1 Corinthians 12).
 
@@ -65,24 +52,13 @@ Jesus modeled this through presence: He touched lepers, ate with outsiders, wept
 
 ## A Framework for Moving From Program to Purpose
 
-Every ministry should be evaluated by three questions:
-
-1. **Engage:** Does this help us love and reach people far from God?
-2. **Establish:** Does this form believers in truth, holiness, and shared life?
-3. **Empower:** Does this equip people to serve and multiply mission?
+Every ministry should be evaluated by three questions: **Engage**—does this help us love and reach people far from God? **Establish**—does this form believers in truth, holiness, and shared life? **Empower**—does this equip people to serve and multiply mission?
 
 If a program does none of these, keep neither its nostalgia nor its budget line. Redesign it, merge it, or sunset it.
 
 ## Relational Architecture: Practices That Build Family
 
-To turn vision into culture, build repeatable structures:
-
-- **Shared Meals:** monthly intergenerational table rhythms.
-- **Care Triads:** three-person support groups for confession, prayer, and follow-up.
-- **Mentorship Pathways:** older believers investing intentionally in younger believers.
-- **Crisis Care Network:** fast response for illness, loss, addiction, and financial distress.
-- **Neighborhood Cells:** geographically rooted communities for mission and mutual care.
-- **Reconciliation Rhythms:** trained peacemaking for conflict repair.
+To turn vision into culture, build repeatable structures. Build shared meals through monthly intergenerational table rhythms. Build care triads through three-person support groups for confession, prayer, and follow-up. Build mentorship pathways where older believers intentionally invest in younger believers. Build a crisis care network for fast response to illness, loss, addiction, and financial distress. Build neighborhood cells as geographically rooted communities for mission and mutual care. Build reconciliation rhythms with trained peacemaking for conflict repair.
 
 When responsibility is shared, belonging becomes believable.
 
@@ -96,11 +72,7 @@ Repentance here is practical: make room in calendars, homes, budgets, and leader
 
 ## Next Steps for 90 Days
 
-1. Run a belonging audit: who is known, who is isolated, who is at risk of drifting?
-2. Transition at least 30% of group ministries to intergenerational format.
-3. Train lay leaders for decentralized pastoral care.
-4. Launch shared meal and care triad rhythms church-wide.
-5. Track measurable outcomes (integration, crisis response, mentorship, reconciliation stories).
+For the next 90 days, run a belonging audit by identifying who is known, who is isolated, and who is at risk of drifting. Transition at least 30% of group ministries to intergenerational format. Train lay leaders for decentralized pastoral care. Launch shared meal and care triad rhythms church-wide. Track measurable outcomes in integration, crisis response, mentorship, and reconciliation stories.
 
 ## Encouraging Close
 
