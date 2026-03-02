@@ -20,13 +20,7 @@ Assignment does not eliminate difficulty. It gives faithful direction within dif
 
 ## Ground Truth: What Mission Drift Looks Like Today
 
-Mission drift in local churches often appears as:
-
-- high activity with low spiritual depth,
-- strong Sunday production with weak neighborhood presence,
-- dependency on clergy with little lay mobilization,
-- reactive public speech without sustained local service,
-- theological statements without practiced discipleship pathways.
+Mission drift in local churches often appears in familiar forms: high activity with low spiritual depth, strong Sunday production with weak neighborhood presence, dependency on clergy with little lay mobilization, reactive public speech without sustained local service, and theological statements without practiced discipleship pathways.
 
 This produces emotional fatigue because people are moving constantly without seeing coherent fruit.
 
@@ -54,43 +48,25 @@ Without Sabbath, shared burden, and prayerful pacing, burnout becomes predictabl
 
 Biblical authority is cruciform authority. Jesus reigns through sacrifice, not domination.
 
-So the church’s public witness must hold together:
+That means the church’s public witness must hold together conviction and compassion, truth and tenderness, holiness and hospitality, proclamation and service.
 
-- conviction and compassion,
-- truth and tenderness,
-- holiness and hospitality,
-- proclamation and service.
-
-Scripture frames the assignment:
-
-- **Matthew 28:18–20** — make disciples of all nations.
-- **Jeremiah 29:7** — seek the peace of the city.
-- **Micah 6:8** — do justice, love mercy, walk humbly.
-- **Matthew 5:13–16** — be salt and light in public life.
+Scripture frames the assignment through four anchors: **Matthew 28:18–20** calls us to make disciples of all nations; **Jeremiah 29:7** commands us to seek the peace of the city; **Micah 6:8** calls us to do justice, love mercy, and walk humbly; **Matthew 5:13–16** commissions us to be salt and light in public life.
 
 Hope does not come from cultural control. It comes from faithful witness under Christ’s lordship.
 
 ## A Practical 12-Month Mission Rule of Life
 
 ### Quarter 1: Repentance and Prayer
-- Congregational lament and confession.
-- Prayer mapping for schools, leaders, neighborhoods, and vulnerable households.
-- Rebuilding personal and corporate prayer rhythms.
+Center this quarter on congregational lament and confession. Prayer-map schools, leaders, neighborhoods, and vulnerable households. Rebuild personal and corporate prayer rhythms.
 
 ### Quarter 2: Formation and Alignment
-- Shared theological vision across all ministries.
-- Training in biblical worldview and gospel communication.
-- Lay-leader development for distributed care and discipleship.
+Unify ministries around a shared theological vision. Train leaders and members in biblical worldview and gospel communication. Develop lay leaders for distributed care and discipleship.
 
 ### Quarter 3: Embodied Local Mission
-- Neighborhood service partnerships with measurable commitments.
-- Intergenerational mission teams.
-- Shared-table evangelism and relational hospitality practices.
+Build neighborhood service partnerships with measurable commitments. Launch intergenerational mission teams. Practice shared-table evangelism and relational hospitality.
 
 ### Quarter 4: Multiplication and Testimony
-- Mentor-apprentice pathways for new leaders.
-- Commissioning of new disciple-making groups.
-- Public testimony gatherings focused on repentance, reconciliation, healing, and mission fruit.
+Establish mentor-apprentice pathways for new leaders. Commission new disciple-making groups. Host public testimony gatherings focused on repentance, reconciliation, healing, and mission fruit.
 
 Track what matters: disciples made, youth retained and mobilized, families supported, crises met with practical care, and new leaders formed.
 
@@ -98,21 +74,13 @@ Track what matters: disciples made, youth retained and mobilized, families suppo
 
 Before churches can scale mission, leaders must model surrendered pace, shared ownership, and clear assignment.
 
-Ask your team:
-
-- What are we doing that is busy but not fruitful?
-- Where are we asking staff to do what the body should do?
-- Which neighborhoods can we name, pray for, and serve specifically?
-- How will we measure formation, not just attendance?
+Ask your team: What are we doing that is busy but not fruitful? Where are we asking staff to do what the body should do? Which neighborhoods can we name, pray for, and serve specifically? How will we measure formation, not just attendance?
 
 Clarity reduces anxiety because clarity restores purpose.
 
 ## Final Integration of the Four-Chapter Journey
 
-- **Chapter 1** named the national discipleship crisis.
-- **Chapter 2** recovered disciple-making as the central command.
-- **Chapter 3** rebuilt church culture from attendance to family.
-- **Chapter 4** mobilizes that renewed church into public, local, sustained mission.
+**Chapter 1** named the national discipleship crisis. **Chapter 2** recovered disciple-making as the central command. **Chapter 3** rebuilt church culture from attendance to family. **Chapter 4** mobilizes that renewed church into public, local, sustained mission.
 
 This protects the church from two failures: diagnosis without action, and action without depth.
 

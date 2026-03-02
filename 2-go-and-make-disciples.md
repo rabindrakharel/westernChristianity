@@ -10,20 +10,11 @@ The answer is often uncomfortable but simple: we have done church activity witho
 
 ## Emotional Arc: From Religious Busyness to Missional Clarity
 
-The emotional burden in many churches sounds like this:
-
-- “We are doing so much, but are we becoming more like Jesus?”
-- “Our people attend services, but who is actually being formed?”
-- “Our youth are present, but are they rooted?”
+The emotional burden in many churches sounds familiar: “We are doing so much, but are we becoming more like Jesus?” “Our people attend services, but who is actually being formed?” “Our youth are present, but are they rooted?”
 
 When this tension is ignored, discouragement grows. Leaders burn out. Members become passive. Young adults search elsewhere for purpose.
 
-When this tension is faced honestly, clarity begins:
-
-- Activity is re-evaluated by formation outcomes.
-- Teaching is tied to obedience.
-- Belonging is tied to responsibility.
-- Mission is shared by all, not outsourced to a few.
+But when this tension is faced honestly, clarity begins. Activity is re-evaluated by formation outcomes. Teaching is tied to obedience. Belonging is tied to responsibility. Mission is shared by all, not outsourced to a few.
 
 ## Why Youth Drift: A Coherence Crisis, Not Just a Preference Shift
 
@@ -59,51 +50,32 @@ If phones shape identity more than church community, the church will always be f
 
 Jesus formed disciples through proximity, truth, correction, and mission. Paul formed leaders by entrustment and multiplication (2 Timothy 2:2). The church was equipped so each member could minister (Ephesians 4:11–13).
 
-This yields a practical, biblical framework:
-
-1. **Engage** — enter people’s real lives with gospel presence.
-2. **Establish** — root believers in Word, prayer, fellowship, holiness, and obedience.
-3. **Empower** — equip and send disciples to serve, lead, and multiply.
+That apostolic pattern gives us a practical framework: **Engage** people by entering real life with gospel presence; **Establish** believers in Word, prayer, fellowship, holiness, and obedience; and **Empower** disciples to serve, lead, and multiply.
 
 This is not a trendy model. It is New Testament movement logic.
 
 ## How to Build a Disciple-Making Pipeline
 
 ### Engage (0–6 months)
-- Neighborhood listening and relational bridge-building.
-- Mercy ministries that meet urgent needs and open space for gospel conversation.
-- Hospitality pathways where seekers and skeptics can belong before they believe.
+In this phase, focus on neighborhood listening and relational bridge-building. Build mercy ministries that meet urgent needs and open space for gospel conversation. Create hospitality pathways where seekers and skeptics can belong before they believe.
 
 ### Establish (6–18 months)
-- Core doctrine in creation, fall, redemption, and restoration.
-- Rhythms of prayer, Scripture, confession, and accountability.
-- Multi-generational small groups with shared table life.
+In this phase, ground people in core doctrine: creation, fall, redemption, and restoration. Strengthen rhythms of prayer, Scripture, confession, and accountability. Build multi-generational small groups with shared table life.
 
 ### Empower (12–24 months and beyond)
-- Apprenticeship in evangelism, pastoral care, and leadership.
-- Mission teams with clear local assignment.
-- Disciple-making expectations where every disciple learns to make disciples.
+In this phase, develop apprenticeship in evangelism, pastoral care, and leadership. Form mission teams with clear local assignment. Set disciple-making expectations so every disciple learns to make disciples.
 
 ## Convicting Word to Leaders
 
 A church can be orthodox on paper and underdeveloped in practice. The issue is not information volume; it is formation depth.
 
-Ask plainly:
-
-- Who can our youth call at 11 PM for spiritual counsel?
-- Who is training new believers to obey Jesus in daily life?
-- Which ministries are producing mature disciple-makers?
-- What would collapse tomorrow if paid staff disappeared?
+Ask plainly: Who can our youth call at 11 PM for spiritual counsel? Who is training new believers to obey Jesus in daily life? Which ministries are producing mature disciple-makers? What would collapse tomorrow if paid staff disappeared?
 
 These questions are not accusations. They are invitations to reformation.
 
 ## Next Steps for the Next 90 Days
 
-1. Audit every ministry through Engage–Establish–Empower.
-2. Identify 12 intergenerational mentor pairs and train them.
-3. Launch one disciple-making small group pilot in each neighborhood cluster.
-4. Create a youth/young adult council with real ministry responsibility.
-5. Publish discipleship milestones so the whole church can see the pathway.
+In the next 90 days, audit every ministry through Engage–Establish–Empower. Identify 12 intergenerational mentor pairs and train them. Launch one disciple-making small group pilot in each neighborhood cluster. Create a youth/young adult council with real ministry responsibility. Publish discipleship milestones so the whole church can see the pathway.
 
 ## Encouraging Close
 
