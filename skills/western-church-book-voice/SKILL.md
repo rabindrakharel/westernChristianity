@@ -16,6 +16,7 @@ Write in the same voice as the current book:
 - biblically grounded, but not preachy in a shallow way
 - urgent, but controlled
 - pastoral, prophetic, and practical at the same time
+- natural and readable, with soothing flow rather than clipped intensity on every line
 
 The aim is to convict Western churches, name root failures clearly, and call readers toward deep discipleship, repentance, formation, and public faithfulness.
 
@@ -31,13 +32,14 @@ The tone is not academic, casual, sarcastic, trendy, or culture-war performative
 
 ## Sentence Rhythm
 
-Use varied cadence with deliberate contrast:
+Use varied cadence with deliberate contrast, but default to smooth paragraph-led prose:
 
 - open sections with clear, weight-bearing sentences
-- follow long reflective sentences with very short declarative lines
-- use isolated lines for emphasis when the claim needs weight
-- stack 3-5 short lines when naming emotional, moral, or social realities
+- prefer medium-length paragraphs that carry one coherent movement of thought
+- use short declarative lines sparingly for emphasis, pivots, or moral weight
+- let transitions feel natural rather than outline-like
 - use rhetorical questions sparingly but strategically
+- avoid making the prose feel like notes, sermon bullets, or spoken fragments chopped into lines
 
 Common rhythm patterns:
 
@@ -47,16 +49,18 @@ Common rhythm patterns:
 - "One life changes. Then a family. Then a neighborhood."
 - "The language remains. The architecture disappears."
 
-Do not overuse fragments. Use them where force and clarity increase.
+Do not overuse fragments. The newer chapter style uses them selectively inside fuller prose. If too many consecutive lines are short, the writing starts sounding breathless or theatrical.
 
 ## Structural Pattern
 
-Most sections should move through this sequence:
+Most chapters and major sections should move through this sequence:
 
 1. Name a visible crisis or tension.
 2. Expose the deeper formation problem underneath it.
 3. Reframe the issue biblically.
 4. Offer a practical or moral summons.
+
+When the chapter follows another chapter, often begin by bridging explicitly from the prior chapter's central question into the next one.
 
 Good headings are short, memorable, and concept-driven, for example:
 
@@ -65,7 +69,7 @@ Good headings are short, memorable, and concept-driven, for example:
 - "From Alarm and Blame to Lament and Holy Responsibility"
 - "Where Life Actually Happens"
 
-Use numbered sections when diagnosing root causes or laying out a framework.
+Use 3-6 high-level section headings in a chapter when helpful. Subheadings should clarify movement, but the chapter should still read like a continuous book chapter, not a workshop outline.
 
 ## Preferred Rhetorical Moves
 
@@ -74,6 +78,7 @@ Use numbered sections when diagnosing root causes or laying out a framework.
 - translate public crises into discipleship failures without flattening complexity
 - return repeatedly to homes, tables, churches, neighborhoods, and everyday faithfulness
 - connect national drift to personal formation and church responsibility
+- connect one chapter's burden to the next so the book feels cumulative
 - end sections with constructive redirection, not mere critique
 
 ## Biblical Handling
@@ -133,13 +138,18 @@ Examples:
 
 Every expansion should strengthen that burden, not wander into side topics.
 
+When merging material from multiple drafts, prefer one clean argument over preserving every existing heading. Compress repeated ideas and reorder for reader flow.
+
 ## Paragraph and List Style
 
-- paragraphs are usually short to medium length
+- paragraphs are usually medium length, with a natural reading flow
 - major claims should be easy to quote
 - lists should feel weighty, not corporate
 - if using repeated one-line lists, each line should advance the argument
 - section endings should often narrow toward action, repentance, or hope
+- keep sentence length mixed: not too short, not too long
+- use short standalone lines only when they genuinely sharpen the point
+- if a section starts sounding choppy, recombine the thought into fuller paragraphs
 
 ## What To Avoid
 
@@ -150,6 +160,9 @@ Every expansion should strengthen that burden, not wander into side topics.
 - overexplaining obvious Christian concepts
 - soft endings that dissolve urgency
 - abstract solutions detached from actual church life
+- prose that feels mechanically fragmented
+- constant one-sentence paragraphs that break the reading flow
+- heading overload that makes the chapter feel like lecture notes
 
 ## Editing Pass
 
@@ -157,10 +170,13 @@ Before finalizing, check:
 
 - Does the piece diagnose root causes, not just symptoms?
 - Does it sound like one coherent authorial voice?
-- Are there enough short lines to carry emphasis, but not so many that it becomes theatrical?
+- Are there enough moments of emphasis, but not so many short lines that it becomes theatrical?
 - Does Scripture govern the argument?
 - Does the ending call the church toward repentance, discipleship, courage, and practical obedience?
+- Does the chapter read smoothly from paragraph to paragraph?
+- Are the sections clear without feeling overly segmented?
 
 If a paragraph sounds generic, sharpen the contrast.
 If a section sounds angry, deepen its grief and moral clarity.
 If a section sounds abstract, bring it back to families, churches, tables, neighborhoods, and lived discipleship.
+If the writing feels choppy, lengthen the paragraphs and restore connective tissue between ideas.
