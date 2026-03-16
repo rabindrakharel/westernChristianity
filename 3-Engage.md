@@ -2,7 +2,7 @@
 
 If Chapter 1 asked who we are, and Chapter 2 asked what we are called to do, Chapter 3 asks what obedience looks like when it first moves outward. The first movement is Engage. Not as a slogan, not as a gimmick, and not as a ministry brand, but as a biblical pattern. When a civilization is degrading, when truth is thinned out, when families are unstable, when young people are confused, and when loneliness spreads through neighborhoods, the church cannot answer that darkness by retreating into analysis alone. It must move toward people.
 
-This is where the disciple-making framework becomes concrete. God forms a people, that people bear His light, and that light moves outward into real human need. Nation-building, in the deepest biblical sense, has always been downstream of discipleship, and discipleship begins to move outward through engagement.
+This is where the disciple-making framework becomes concrete. God forms a people, that people bear His light, and that light moves outward into real human need. When that light takes root in enough lives and households, it begins to reshape communities. But it always starts with actual people being loved in the name of Christ.
 
 ## The First Movement of Love
 
@@ -48,13 +48,13 @@ Paul understood that kind of renunciation. He had pedigree, status, and moral cr
 
 That is why Paul can also say, "I am not ashamed of the gospel, for it is the power of God for salvation." Shame loses some of its grip when a person truly believes that the gospel is not a weak religious opinion, but the very power of God at work to save.
 
-And here the question becomes painfully practical. People are often unembarrassed to recommend an addictive game, a compelling film, a great restaurant, or a memorable hockey game. They can speak with energy about the Super Bowl, a playlist, a streaming series, or a new gadget without feeling socially threatened. But when the name of Jesus enters the conversation, the voice tightens, the courage thins, and the witness fades.
+And here the question becomes painfully practical. People are often unembarrassed to recommend a game, a film, a restaurant, a series, or a new gadget. They can speak with energy about ordinary enthusiasms without feeling socially threatened. But when the name of Jesus enters the conversation, the voice tightens, the courage thins, and the witness fades.
 
 That does not always mean a person is hypocritical. Sometimes it simply means the heart still needs deeper transformation. Not every quiet personality lacks faith, and not every outgoing personality possesses courage. But when the gospel remains consistently unspeakable on our lips, it is often a sign that fear of man is still discipling us more than the fear of God.
 
 Scripture does not respond to that fear by shaming fearful people and leaving them there. Again and again, God meets fearful people and reassigns them. He meets Moses in insecurity, Elijah in exhaustion, Jeremiah in reluctance, Peter in failure, and the early church under pressure. The pattern is striking. God does not wait for flawless confidence before He sends people. He meets them honestly in their weakness, then gives them a clearer calling than their fear.
 
-This is why believers must ask God for boldness rather than merely waiting for confidence to appear. In Acts, the church does not pray for safer optics or better public relations. It asks the Lord to grant His servants boldness to speak His word, and to stretch out His hand with healings, signs, and wonders in the name of Jesus. That prayer still matters. If we are going to engage a resistant culture, we will need both courage to speak and mercy from God that confirms His nearness.
+This is why believers must ask God for boldness rather than merely waiting for confidence to appear. In Acts, the church does not pray for safer optics or better public relations. It asks the Lord to grant His servants boldness to speak His word and to make His nearness known with real mercy and power. That prayer still matters. If we are going to engage a resistant culture, we will need both courage to speak and grace from God that confirms His nearness.
 
 There is another barrier as well, and this one lies beyond us. Sometimes the obstacle is not only our own fear, but the hardness, blindness, and confusion of the people before us. The human heart does not open on command. Scripture says that the Lord opened Lydia's heart to pay attention to Paul's message, and Paul prays that the eyes of the heart would be enlightened. In other words, witness is never finally carried by eloquence alone. God must grant sight.
 
@@ -64,7 +64,7 @@ That should not make the church passive. It should make the church prayerful. We
 
 Engage is outcome-oriented, not method-centered. The method can vary widely, but the goal does not: have we brought people into contact with Jesus, and have we clearly offered the gospel?
 
-Engage may look like prayer for healing, serving a struggling family, helping a newcomer settle into a neighborhood, or sharing meals with students. It may look like a hockey night, a fishing trip, a tutoring effort, addiction support, crisis care, or walking with a grieving household. It may happen in a living room, at a dinner table, on a campus, at a workplace, in a hospital, or on a sidewalk. The point is not to be clever. The point is to be present, and to be present in such a way that the gospel can be heard.
+Engage may look like prayer for healing, serving a struggling family, helping a newcomer settle into a neighborhood, or sharing meals with students. It may look like a game night, a fishing trip, a tutoring effort, addiction support, crisis care, or walking with a grieving household. It may happen in a living room, at a dinner table, on a campus, at a workplace, in a hospital, or on a sidewalk. The point is not to be clever. The point is to be present, and to be present in such a way that the gospel can be heard.
 
 That matters especially in a fragmented culture. People today are suspicious of institutions, tired of performance, and hungry for coherence. They are more likely to hear the truth when they have first encountered its texture in a faithful person. That does not mean we manipulate people with kindness. It means kindness is one of the ways the kingdom becomes believable. Scripture says that the kindness of God leads us to repentance, and Engage is often the vessel that carries that kindness. A meal offered, a ride given, a prayer spoken, a burden shared, a bill helped, a listening ear, and a truthful conversation can all become thresholds of mercy when Christ is named within them.
 

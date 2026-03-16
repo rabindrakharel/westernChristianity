@@ -40,6 +40,7 @@ The goal of the book is to help Western churches respond to civilizational decli
 **Focus:** Equipping and commissioning believers for the work of ministry.
 
 - Shows that empowered believers are released to engage and establish others.
+- Emphasizes participatory, relational church life that can actually train and release laborers.
 - Confronts insecure leadership that retains people instead of commissioning them.
 - Frames multiplication as the normal fruit of a healthy church rather than a rare extra.
 
@@ -48,7 +49,7 @@ The goal of the book is to help Western churches respond to civilizational decli
 
 - Reframes leadership as shepherding rather than performance.
 - Calls leaders to authenticity, repentance, forgiveness, prayer, and accountability.
-- Connects leadership directly to feeding people, protecting formation, and multiplying others.
+- Connects leadership directly to feeding people, protecting formation, stewarding resources wisely, and multiplying others.
 
 ## How the Chapters Work Together
 
