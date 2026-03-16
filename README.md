@@ -29,7 +29,7 @@ In short, this book aims to guide readers from concern and anxiety to repentance
 - Explains why youth and families drift when formation is shallow.
 - Presents a practical biblical model—**Engage, Establish, Empower**—for building multiplying disciples.
 
-### 3) [Program to Purpose](3-program-to-purpose.md)
+### 3) [Program to Purpose](3-Engage.md)
 **Focus:** Shifting church culture from attendance metrics to spiritual family.
 
 - Addresses loneliness, disconnection, and “polite but distant” church life.
