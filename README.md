@@ -1,6 +1,6 @@
-# Western Christianity: A Five-Chapter Renewal Framework
+# Western Christianity: A Six-Chapter Renewal Framework
 
-This manuscript is now structured as a five-chapter book moving from cultural diagnosis to disciple-making renewal and multiplication.
+This manuscript is now structured as a six-chapter book moving from cultural diagnosis to disciple-making renewal, multiplication, and servant leadership.
 
 ## Overall Goal
 
@@ -43,6 +43,13 @@ The goal of the book is to help Western churches respond to civilizational decli
 - Confronts insecure leadership that retains people instead of commissioning them.
 - Frames multiplication as the normal fruit of a healthy church rather than a rare extra.
 
+### 6) [Do You Want to Lead?](6-Do%20you%20want%20to%20lead%3F.md)
+**Focus:** Recovering servant leadership for a multiplying church.
+
+- Reframes leadership as shepherding rather than performance.
+- Calls leaders to authenticity, repentance, forgiveness, prayer, and accountability.
+- Connects leadership directly to feeding people, protecting formation, and multiplying others.
+
 ## How the Chapters Work Together
 
 1. **Chapter 1** names the crisis and asks who the church is.
@@ -50,5 +57,6 @@ The goal of the book is to help Western churches respond to civilizational decli
 3. **Chapter 3** shows how disciple-making first moves outward through Engage.
 4. **Chapter 4** shows how believers are rooted through Establish.
 5. **Chapter 5** shows how rooted believers are released through Empower.
+6. **Chapter 6** asks what kind of leaders can shepherd a multiplying people without turning leadership into performance or control.
 
-Together, the book argues for one coherent movement: **identity, assignment, engagement, formation, and multiplication.**
+Together, the book argues for one coherent movement: **identity, assignment, engagement, formation, multiplication, and servant leadership.**
