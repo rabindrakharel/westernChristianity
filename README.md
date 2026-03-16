@@ -1,53 +1,54 @@
-# Western Christianity: A Four-Chapter Renewal Framework
+# Western Christianity: A Five-Chapter Renewal Framework
 
-This manuscript is a four-chapter mini-book designed to move from **national diagnosis** to **local church renewal practice**.
+This manuscript is now structured as a five-chapter book moving from cultural diagnosis to disciple-making renewal and multiplication.
 
 ## Overall Goal
 
-The overall goal is to help churches in Canada respond to cultural, relational, and spiritual decline with a coherent biblical pathway that is:
-
-- emotionally honest,
-- spiritually grounded,
-- discipleship-centered,
-- and practically actionable.
-
-In short, this book aims to guide readers from concern and anxiety to repentance, formation, and mission.
+The goal of the book is to help Western churches respond to civilizational decline with a coherent biblical pathway that is spiritually grounded, discipleship-centered, and practically actionable. The argument moves from diagnosis to identity, from identity to assignment, and from assignment to a multiplying church culture.
 
 ## Chapter Summary
 
-### 1) [Do You Want to Save Canada?](1-do-you-want-to-save-canada.md)
-**Focus:** National discipleship crisis and moral-spiritual diagnosis.
+### 1) [Who Are You?](1-Who%20are%20you%3F.md)
+**Focus:** Recovering ecclesial identity in a degrading civilization.
 
-- Names the emotional reality of social fragmentation, fatigue, and blame.
-- Identifies root causes beneath public symptoms (formation failure, competing discipleship systems, moral confusion).
-- Reframes hope through Scripture and calls the church to begin renewal through lament, repentance, and responsibility.
+- Names the civilizational crisis beneath public confusion.
+- Exposes how anti-Christian principles become institutionalized.
+- Calls the church to recover its identity in Christ rather than reacting through panic, politics, or program activity.
 
-### 2) [Go and Make Disciples](2-go-and-make-disciples.md)
-**Focus:** Recovering disciple-making as the church’s core mandate.
+### 2) [What Are You Called to Do?](2-What%20are%20you%20called%20to%20do.md)
+**Focus:** Recovering disciple-making as the church's central assignment.
 
-- Confronts the gap between church activity and spiritual maturity.
-- Explains why youth and families drift when formation is shallow.
-- Presents a practical biblical model—**Engage, Establish, Empower**—for building multiplying disciples.
+- Confronts false assignments such as celebrity, careerism, institutional maintenance, and political outsourcing.
+- Shows how societal decline and church condition are connected.
+- Re-centers the church on Christ's command to make disciples.
 
-### 3) [Program to Purpose](3-Engage.md)
-**Focus:** Shifting church culture from attendance metrics to spiritual family.
+### 3) [Engage: Bringing Light Into a Dimming World](3-Engage.md)
+**Focus:** Moving outward with gospel presence in a degrading culture.
 
-- Addresses loneliness, disconnection, and “polite but distant” church life.
-- Diagnoses structural and relational bottlenecks that prevent belonging.
-- Provides a purpose filter and relational architecture for belonging, care, and mission.
+- Explains why the church must move toward urgent human need with explicit gospel clarity.
+- Addresses fear, shame, and other barriers to witness.
+- Frames Engage as the first doorway in a disciple-making culture.
 
-### 4) [Anxiety to Assignment](4-anxiety-to-assignment.md)
-**Focus:** Mobilizing a renewed church into faithful local mission.
+### 4) [Establish: From New Birth to New Formation](4.%20Establish.md)
+**Focus:** Rooting believers in Word, Spirit, and fellowship.
 
-- Moves congregations from fear and burnout toward obedient public witness.
-- Identifies why mission stalls and how churches can recover clarity.
-- Offers a 12-month mission rule of life integrating prayer, formation, embodiment, and multiplication.
+- Explains why conversion must be followed by formation.
+- Uses Romans 12, the parable of the sower, and Acts to show how believers are stabilized.
+- Defines Establish as the patient work of Christian formation and rootedness.
 
-## How the Four Chapters Work Together
+### 5) [Empower: From Formation to Fruitful Multiplication](5-Empower.md)
+**Focus:** Equipping and commissioning believers for the work of ministry.
 
-1. **Chapter 1** diagnoses the crisis.
-2. **Chapter 2** restores disciple-making as the central response.
-3. **Chapter 3** rebuilds church culture for durable belonging and formation.
-4. **Chapter 4** sends that renewed church into sustained, local, missional assignment.
+- Shows that empowered believers are released to engage and establish others.
+- Confronts insecure leadership that retains people instead of commissioning them.
+- Frames multiplication as the normal fruit of a healthy church rather than a rare extra.
 
-Together, this forms one coherent journey: **from lament to renewal, from renewal to discipleship, and from discipleship to mission.**
+## How the Chapters Work Together
+
+1. **Chapter 1** names the crisis and asks who the church is.
+2. **Chapter 2** asks what the church is called to do.
+3. **Chapter 3** shows how disciple-making first moves outward through Engage.
+4. **Chapter 4** shows how believers are rooted through Establish.
+5. **Chapter 5** shows how rooted believers are released through Empower.
+
+Together, the book argues for one coherent movement: **identity, assignment, engagement, formation, and multiplication.**
