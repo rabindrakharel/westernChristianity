@@ -40,6 +40,16 @@ This is also why Engage must remain Spirit-dependent. You can create a meeting, 
 
 ## The Barriers to Engage
 
+Engage is resisted in more than one way. Some barriers come from misunderstanding the aim. Some come from fear in the messenger. Some come from false confidence in method. Some come from the spiritual condition of the people before us.
+
+### Barriers of Misunderstanding
+
+One barrier appears before witness even becomes personal: the church can misread what Engage is for. If we confuse platform with presence, we stay visible without becoming near. If we meet urgent needs but never move toward Christ, we may relieve pain without opening a path to salvation. And if Engage terminates in kindness alone, people may become more comfortable without ever being reconciled to God. Engage must move toward repentance, faith, and discipleship, or it has stopped short of its own goal.
+
+Another distortion appears in the scope of our love. The church can drift toward the people who already feel easy to reach, familiar, and socially natural. But Engage cannot become tribal. The people nearest to us and least like us are often the very people Christ is placing before us.
+
+### Barriers in the Messenger
+
 Even when believers agree with mission in principle, many still hesitate when witness becomes personal. The barriers are often less intellectual than they first appear. They have more to do with shame, shyness, social image, fear of rejection, and the instinct to protect ourselves from awkwardness than with any serious uncertainty about what Christ has commanded.
 
 This is where the words of Jesus become uncomfortably direct. If anyone would come after Him, he must deny himself, take up his cross, and follow. Engage is not merely a method for reaching other people; it is also an assault on self-protection. The gospel moves outward most clearly through people who are no longer governed by the need to look polished, safe, impressive, or socially untouchable.
@@ -56,9 +66,13 @@ Scripture does not respond to that fear by shaming fearful people and leaving th
 
 This is why believers must ask God for boldness rather than merely waiting for confidence to appear. In Acts, the church does not pray for safer optics or better public relations. It asks the Lord to grant His servants boldness to speak His word and to make His nearness known with real mercy and power. That prayer still matters. If we are going to engage a resistant culture, we will need both courage to speak and grace from God that confirms His nearness.
 
+### Barriers Beyond the Messenger
+
 There is another barrier as well, and this one lies beyond us. Sometimes the obstacle is not only our own fear, but the hardness, blindness, and confusion of the people before us. The human heart does not open on command. Scripture says that the Lord opened Lydia's heart to pay attention to Paul's message, and Paul prays that the eyes of the heart would be enlightened. In other words, witness is never finally carried by eloquence alone. God must grant sight.
 
-That should not make the church passive. It should make the church prayerful. We deny ourselves, take up the cross, speak clearly, ask for boldness, ask God to confirm His word with mercy and power, and ask Him to open hearts that would otherwise remain closed. Engage, then, requires two forms of surrender at once: surrender of self-protection in the messenger, and surrender of self-reliance in the method. We cannot bear faithful witness while clinging to our image, and we cannot bear fruitful witness while pretending that human technique can awaken the dead.
+That should not make the church passive. It should make the church prayerful. Preaching the gospel is spiritual warfare. We are not merely passing along information to neutral minds. We are bearing witness in a contested field where sin blinds, lies harden, and the kingdom of darkness resists the light of Christ. So we deny ourselves, take up the cross, speak clearly, ask for boldness, and lean on the power of the Holy Spirit to do what we cannot do. As the Word of God is preached, the Holy Spirit convicts people concerning sin, righteousness, and judgment, and opens hearts that would otherwise remain closed.
+
+Engage, then, requires two forms of surrender at once: surrender of self-protection in the messenger, and surrender of self-reliance in the method. We cannot bear faithful witness while clinging to our image, and we cannot bear fruitful witness while pretending that human technique can awaken the dead.
 
 ## What Engage Looks Like Now
 
