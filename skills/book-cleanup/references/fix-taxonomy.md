@@ -61,7 +61,27 @@ Note:
 - this often gets mislabeled as "passive writing"
 - the deeper issue is usually abstraction, not grammatical passivity
 
-## 4. Weak Human Stakes
+## 4. Sentence-Level Over-Tension
+
+Problem:
+
+- every sentence tries to carry a reversal, contrast, or miniature climax
+
+Common signals:
+
+- serial oppositions
+- sentence-by-sentence verdicts
+- compressed lines that all sound weight-bearing
+- descriptive material delivered as if it were already the conclusion
+
+Fix:
+
+- move the tension outward from the sentence to the paragraph
+- let some lines remain plain and observational
+- let the paragraph accumulate pressure before the turn
+- reduce the number of contrastive constructions in a short span
+
+## 5. Weak Human Stakes
 
 Problem:
 
@@ -72,7 +92,7 @@ Fix:
 - name what people feared losing:
   honor, livelihood, family peace, safety, status, belonging, bodily security
 
-## 5. Heading Drift
+## 6. Heading Drift
 
 Problem:
 
@@ -82,7 +102,7 @@ Fix:
 
 - rename headings with a controlling idea, not an editorial label
 
-## 6. Transition Drift
+## 7. Transition Drift
 
 Problem:
 
@@ -95,7 +115,25 @@ Fix:
   decision -> meaning
   meaning -> next pressure
 
-## 7. Weak Chapter-Opening Bridges
+## 8. Abrupt Scale Change
+
+Problem:
+
+- prose jumps from one level of analysis to another without enough connective tissue
+
+Common signals:
+
+- personal struggle suddenly becomes civilizational diagnosis
+- household scene suddenly becomes institutional critique
+- biography suddenly becomes national argument
+
+Fix:
+
+- add an explicit hinge
+- move through an intermediate layer when needed
+- make the larger claim feel earned by the smaller one
+
+## 9. Weak Chapter-Opening Bridges
 
 Problem:
 
@@ -113,7 +151,7 @@ Fix:
 - open with the chapter's live burden, pressure, or claim
 - preserve continuity with prior chapters without sounding like a table of contents
 
-## 8. Comparative Lecture Openers
+## 10. Comparative Lecture Openers
 
 Problem:
 
@@ -129,7 +167,31 @@ Fix:
 - cut the comparison unless it is doing real argumentative work
 - start with tension, burden, or scene directly
 
-## 9. Mechanical Repetition
+## 11. Identity-to-Calling Gap
+
+Problem:
+
+- prose names identity clearly but reaches calling too abruptly or too thinly
+
+Fix:
+
+- state that belonging creates obligation
+- turn self-understanding into assignment with an explicit hinge
+- make mission feel like the consequence of identity, not a new topic
+
+## 12. Personal/Corporate Blur
+
+Problem:
+
+- manuscript slides between individual, church-wide, and societal application without marking the shift
+
+Fix:
+
+- label the scale clearly in prose
+- keep personal exhortation and corporate exhortation distinct
+- reconnect them only after the distinction is clear
+
+## 13. Mechanical Repetition
 
 Problem:
 
@@ -141,7 +203,22 @@ Fix:
 - vary sentence openings and structures
 - collapse duplicates into one stronger sentence
 
-## 10. Precision Softness
+Special case:
+
+- cut repetition that restarts the argument rather than advancing it
+
+## 14. Lost Handoff
+
+Problem:
+
+- revision improves a paragraph but damages the transition into the next section or chapter
+
+Fix:
+
+- inspect the next downstream section after rewriting the opening or closing
+- preserve the question, tension, or burden that hands the reader forward
+
+## 15. Precision Softness
 
 Problem:
 

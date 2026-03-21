@@ -12,6 +12,7 @@ Turn draft prose into cleaner book prose.
 Preserve the author's argument and voice while improving:
 
 - coherence between sentences, paragraphs, and sections
+- chapter-scale coherence and handoff
 - scene-setting and historical/social grounding
 - clarity of pressure, stakes, and human consequence
 - heading quality and structural flow
@@ -24,7 +25,8 @@ Preserve the author's argument and voice while improving:
 3. Fix by category, not line-by-line in isolation.
 4. Patch only the weak spots; do not flatten passages that already carry weight.
 5. Preserve the manuscript's established voice unless the user asks for a different one.
-6. Re-read the revised passage for flow, cadence, and repeated scaffolding.
+6. Check downstream sections after reframing an opening so the new opening still fits the rest of the chapter.
+7. Re-read the revised passage for flow, cadence, and repeated scaffolding.
 
 When working in this repository, use the local `western-church-book-voice` skill alongside this one if the task requires matching the manuscript's exact theological and rhetorical voice.
 
@@ -35,7 +37,11 @@ Sort issues into concrete buckets:
 - meta-reader scaffolding
 - book-architecture scaffolding
 - weak chapter-opening bridges
+- abrupt scale changes
 - abstraction without image or consequence
+- sentence-level over-tension
+- broken identity-to-calling movement
+- blurred personal vs. corporate application
 - missing world/context around a person or event
 - weak transitions
 - repetitive cadence
@@ -46,6 +52,8 @@ Sort issues into concrete buckets:
 Do not call everything "passive." Often the deeper problem is abstraction, summary language, or authorial stage-direction.
 
 Do not treat every repeated phrase as a problem. Some refrains carry force. Fix the moments where the prose starts explaining its own structure instead of advancing its burden.
+
+Watch for tension being carried at the wrong scale. Strong book prose often places the strain at the paragraph or section level, not in every sentence. If every line tries to pivot, reverse, or deliver a verdict, the passage begins to sound polar, effortful, or inauthentic.
 
 ## Core Fixes
 
@@ -83,6 +91,8 @@ Prefer concrete nouns and active verbs:
 
 - port, market, temple, court, prison, household, road, tax, crowd
 - guarded, fed, bound, feared, refused, carried, exposed
+
+Also vary sentence pressure. Not every descriptive line needs to sound like a moral contrast or a rhetorical blow.
 
 ### 3. Open with World Before Person When Needed
 
@@ -191,6 +201,55 @@ If a transition sounds like workshop narration, rewrite it as book prose.
 
 Chapter openings are a special case. They should not sound like table-of-contents commentary. They should sound like the chapter has already begun.
 
+When a chapter is moving from identity to assignment, make that hinge explicit. Do not assume the reader will supply the bridge. Write the transition so the next burden grows naturally from the previous one.
+
+### 6a. Bridge Abrupt Scale Changes
+
+Watch for scale jumps that move too quickly:
+
+- inner life -> civilization
+- biography -> empire
+- household -> nation
+- personal obedience -> church architecture
+
+The issue is not that the scale change is wrong. The issue is when it arrives without enough connective tissue.
+
+Fix:
+
+- add a hinge sentence that explains why the larger scale follows from the smaller one
+- move through one intermediate layer when needed: person -> household -> church -> society
+- make sure the larger claim grows out of the prior paragraph instead of feeling imported
+
+### 6b. Move Identity to Calling Explicitly
+
+When a chapter moves from `who are you?` to `what are you called to do?`, do not jump straight from diagnosis to assignment.
+
+Fix:
+
+- state that recovered identity creates the next question
+- show why self-understanding without obedience remains incomplete
+- let calling arise as the natural consequence of belonging to Christ
+
+### 6c. Distinguish Personal vs. Corporate Application
+
+Many manuscript sections drift because they move between `you`, `the church`, `leaders`, and `society` without marking the change.
+
+Fix:
+
+- name the level of application explicitly when the scale changes
+- separate personal obedience from corporate responsibility when both are present
+- preserve the relationship between them without blurring them together
+
+### 6d. Preserve Chapter Handoff
+
+When revising an opening or closing, make sure the chapter still hands off naturally to the next one.
+
+Fix:
+
+- preserve the final conceptual question or tension that leads forward
+- remove outline commentary without severing continuity
+- check the next chapter's opening if the handoff was part of the original architecture
+
 ### 7. Preserve Cadence While Cutting Repetition
 
 Watch for stacked sentences with the same frame:
@@ -200,6 +259,27 @@ Watch for stacked sentences with the same frame:
 - repeated "That matters because..."
 
 Some repetition is useful. Mechanical repetition makes the prose feel assembled rather than written.
+
+Cut repetition that restarts the argument instead of advancing it. Repeated burden-language is only useful when each return deepens, sharpens, or redirects the point.
+
+### 7a. Move Tension from Sentence Level to Paragraph Level
+
+When a passage feels polar, stiff, or over-compressed, the problem is often that every sentence is trying to carry drama.
+
+Common signals:
+
+- back-to-back contrasts
+- serial mini-verdicts
+- repeated `X. Y.` sentence fragments
+- descriptive lines ending in a twist or punch every time
+
+Fix:
+
+- let some sentences simply describe
+- let others interpret
+- save the strongest contrast for the end of the paragraph or the decisive sentence
+- replace serial oppositions with steadier narrative flow
+- mix plain observational lines with weight-bearing lines
 
 ### 8. Correct Precision Problems
 
@@ -216,10 +296,15 @@ Use confident prose where facts are stable. Use careful phrasing where the tradi
 
 - Keep the author's burden intact.
 - Patch selectively. Strong paragraphs should survive untouched.
+- Keep one center of gravity per chapter or section.
 - Prefer directness over commentary about directness.
+- Let paragraphs carry tension; do not force every sentence to do it.
 - Prefer scene and pressure over explanation about scene and pressure.
 - Prefer one clean conceptual move over multiple near-duplicate sentences.
+- Bridge scale changes instead of leaping over them.
+- Distinguish personal and corporate application when both are present.
 - If a paragraph explains its own effect, rewrite it so the effect is achieved rather than announced.
+- If an opening is reframed, re-check the next two or three sections for downstream incoherence.
 - If the prose sounds like lecture notes, restore connective tissue and paragraph flow.
 
 ## Validation Pass
@@ -243,6 +328,10 @@ Then read the revised passage aloud in your head and ask:
 - Does it trust the reader enough to avoid overexplaining?
 - Does the heading carry the argument?
 - Does the opening sound like a chapter beginning or like an outline note?
+- Does the chapter keep one center of gravity?
+- Does the scale move gradually enough to feel earned?
+- Are personal and corporate applications clearly distinguished?
+- Does the ending still hand off naturally to the next chapter or section?
 - Does the section sound like the same author from start to finish?
 
 ## Reference
