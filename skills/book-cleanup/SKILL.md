@@ -1,6 +1,6 @@
 ---
 name: book-cleanup
-description: Clean longform prose such as book chapters, essays, historical portraits, introductions, and manuscript sections for coherence, flow, scene-setting, heading quality, and reader clarity. Use when writing feels abstract, lecture-like, repetitive, overexplained, structurally self-aware, thin on context, weak in transitions, or out of voice with the surrounding manuscript.
+description: Clean longform prose such as book chapters, essays, historical portraits, introductions, and manuscript sections for coherence, flow, scene-setting, heading quality, and reader clarity. Treat `book_cleanup` and `book-cleanup` as the same skill. Use when writing feels abstract, lecture-like, repetitive, overexplained, structurally self-aware, thin on context, weak in transitions, or out of voice with the surrounding manuscript.
 ---
 
 # Book Cleanup
@@ -8,6 +8,12 @@ description: Clean longform prose such as book chapters, essays, historical port
 ## Outcome
 
 Turn draft prose into cleaner book prose.
+
+## Naming
+
+Canonical skill name: `book-cleanup`
+
+Alias to treat as equivalent: `book_cleanup`
 
 Preserve the author's argument and voice while improving:
 
