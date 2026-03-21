@@ -60,3 +60,14 @@ The goal of the book is to help Western churches speak to a searching, distracte
 6. **Chapter 6** asks what kind of leaders can shepherd and multiply a people without turning leadership into performance or control.
 
 Together, the book argues for one coherent movement: **identity, assignment, engagement, formation, multiplication, and servant leadership.**
+
+## Historical Example Sequence
+
+The following supplemental files provide a chronological set of historical portraits tied to identity, heavenly calling, courage, and the conviction that earthly life is temporary:
+
+1. [Example 1 - Perpetua and Felicity](example1.md)
+2. [Example 2 - Alban](example2.md)
+3. [Example 3 - Helena](example3.md)
+4. [Example 4 - Hosius of Cordoba](example4.md)
+5. [Example 5 - Athanasius](example5.md)
+6. [Example 6 - William Carey](example6.md)
