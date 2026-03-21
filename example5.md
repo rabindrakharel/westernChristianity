@@ -6,11 +6,15 @@ Believers who are genuinely being formed must not remain an admiring crowd. John
 
 Eighteenth-century Britain was full of religious language and spiritual neglect. Industrial change, urban growth, social dislocation, and deep poverty were reshaping the nation. Many parish churches were not reaching miners, laborers, prisoners, servants, or the new urban poor. A church could remain respectable and still leave huge numbers of people spiritually untouched. That is the sort of environment in which Wesley's work must be understood.
 
-Wesley himself was a priest of the Church of England, educated, organized, and serious about holy living. But he gradually learned that preaching alone would not be enough. If people were awakened to Christ and then left as isolated hearers, the work would thin out quickly.
+Wesley himself was formed in a serious Anglican home. He was the son of Samuel Wesley, rector of Epworth, and Susanna Wesley, whose disciplined attention to prayer, Scripture, and the ordering of children left a deep mark on him. At Oxford, alongside his brother Charles, he threw himself into methodical devotion in the Holy Club. They studied Scripture, fasted, received Communion frequently, visited prisoners, and served the poor. All of that mattered, but it did not yet give Wesley the assurance he later realized he lacked.
+
+He was educated, organized, and serious about holy living. But he gradually learned that preaching alone would not be enough, and that disciplined religion without living faith could still leave a man inwardly unsettled. If people were awakened to Christ and then left as isolated hearers, the work would thin out quickly.
 
 ## What He Did
 
-Wesley is famous for field preaching, and rightly so. When church buildings closed their doors to him, he went outdoors and preached to miners, laborers, and crowds who would never have entered many pulpits. He could say that he looked on all the world as his parish because he was unwilling to let geography, class, or convention define the reach of the gospel.
+Wesley is famous for field preaching, and rightly so. But before that came disappointment. His mission to Georgia had gone badly. He returned to England discouraged, aware that his own soul was not as settled as his outward discipline suggested. The turning point came in 1738 after the influence of Moravians and Peter Bohler. At Aldersgate Street, while Luther's preface to Romans was being read, Wesley wrote, "I felt my heart strangely warmed." From there his ministry changed in tone and reach.
+
+When church buildings later closed their doors to him, he went outdoors and preached to miners, laborers, and crowds who would never have entered many pulpits. He could say that he looked on all the world as his parish because he was unwilling to let geography, class, or convention define the reach of the gospel.
 
 But his deeper importance lies in what he did after people responded. Wesley built societies, bands, and class meetings so that new and growing believers would not remain anonymous. The class meeting became especially powerful. Small groups of ordinary people met regularly for confession, exhortation, practical care, and accountability. They were not there merely to consume religious content. They were there to watch over one another in love and obedience.
 
