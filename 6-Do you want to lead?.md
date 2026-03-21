@@ -1,6 +1,6 @@
 # Chapter 6 - Do You Want to Lead?
 
-If Chapter 5 asked whether the church will release believers into ministry, Chapter 6 asks what kind of people should lead them. That question matters because once a church begins to empower people, leadership becomes even more important, not less. A multiplying church does not need more performers. It needs shepherds.
+A multiplying church does not need more performers. It needs shepherds. Once a church begins to empower people, leadership becomes even more important, not less. The question is not whether leaders will exist, but what kind of people they will be.
 
 So the question is not first whether you want influence, visibility, or a meaningful role. The question is simpler and heavier than that: do you want to lead? And if you do, do you understand what biblical leadership actually is?
 

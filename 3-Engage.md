@@ -1,6 +1,6 @@
 # Chapter 3 - Engage: Bringing Light Into a Searching World
 
-If Chapter 1 asked who we are, and Chapter 2 asked what we are called to do, Chapter 3 asks what obedience looks like when it first moves outward. The first movement is Engage.
+Obedience does not remain an inward conviction or a private program of improvement. It moves outward toward people. That first outward movement is Engage.
 
 That matters because the people around us are not abstractions. They are living with the questions of Chapter 1 in real time. Is this all life is? Why do I still feel empty? Why am I so tired? Why does my life look full and still feel directionless? Some ask those questions aloud. Many carry them in silence. The church does not answer that ache by staying inside analysis alone. It moves toward people.
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book Cleanup"
+  short_description: "Tighten book prose for coherence, flow, and reader clarity."
+  default_prompt: "Use this skill to audit and clean book chapters or historical portraits for coherence, transitions, scene-setting, narrative flow, and stylistic consistency."

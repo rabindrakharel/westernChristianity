@@ -6,7 +6,7 @@ In Athanasius the issue becomes impossible to miss. The conflict of his age was 
 
 Alexandria was one of the great cities of the Mediterranean world, dense, argumentative, commercially significant, and socially combustible. Grain moved through it. Ideas moved through it. Crowds moved through it. Wealth and poverty sat close together. Greek culture, Roman administration, Jewish presence, and Christian controversy all met there. In such a city, theology did not stay abstract for long. What bishops taught shaped worship, public conflict, popular allegiance, and the spiritual imagination of ordinary people.
 
-That is why the fourth-century Christological controversies mattered so much in lived terms. Emperors wanted unity. Rival bishops wanted influence. Clergy and congregations could be split by competing confessions. Exile, rumor, accusation, and political maneuvering were part of the atmosphere. Modern readers know what it feels like when institutions become unstable, language becomes contested, and every dispute carries social consequences beyond the original issue. Athanasius lived in that sort of pressure-filled world, except that the truth at stake was the identity of Christ Himself.
+That is why the fourth-century Christological controversies mattered so much in lived terms. Emperors wanted unity. Rival bishops wanted influence. Clergy and congregations could be split by competing confessions. Exile, rumor, accusation, and political maneuvering were part of the atmosphere. Institutions were unstable. Language was contested. Every dispute carried consequences beyond the original issue. Athanasius lived in that sort of pressure-filled world, except that the truth at stake was the identity of Christ Himself.
 
 Athanasius was born around AD 293 in Alexandria, trained there, and attended the Council of Nicaea in AD 325 as a deacon serving Bishop Alexander. Three years later he became bishop of Alexandria. From then on, much of his life was consumed by conflict with those who denied or blurred the full deity of the Son. He became the chief defender of Nicene orthodoxy in a world where emperors, bishops, and factions repeatedly tried to make theological compromise sound prudent.
 
@@ -16,7 +16,7 @@ To modern ears, the disputes of the fourth century can sound abstract. They were
 
 That is why he fought so hard. He was not defending a slogan for theologians. He was protecting the church's confession, worship, and hope. He knew that when people lose the truth about Christ, they eventually lose the truth about themselves. A people can only live as sons and daughters, saints and witnesses, if the Savior who claims them is the eternal Son made flesh.
 
-This is one reason Athanasius belongs in a sequence about identity and heavenly calling. His endurance was not fueled by stubborn temperament alone. It was fueled by the conviction that some truths are worth losing place, comfort, and reputation to preserve.
+His endurance was not fueled by stubborn temperament alone. It was fueled by the conviction that some truths are worth losing place, comfort, and reputation to preserve.
 
 ## Displaced Again and Again
 
@@ -34,6 +34,6 @@ This is where his life cuts across the instincts of the age. The West trains peo
 
 That does not mean every believer is called to public controversy. It does mean every believer must decide whether truth is only valuable when it is inexpensive. Athanasius answered no. The church still benefits from that answer.
 
-He also helps keep the sequence honest. Identity in Christ is not only for martyrs in arenas or for hidden saints in houses. It is also for leaders whose convictions are tested over decades, under pressure that is administrative, relational, theological, and political all at once. In every case the same logic remains. Life is temporary. Christ is Lord. Therefore truth must not be traded for ease.
+He also keeps the witness of the church honest. Identity in Christ is not only for martyrs in arenas or for hidden saints in houses. It is also for leaders whose convictions are tested over decades, under pressure that is administrative, relational, theological, and political all at once. In every case the same logic remains. Life is temporary. Christ is Lord. Therefore truth must not be traded for ease.
 
 Centuries later, that same logic would animate a very different servant of Christ. He was not facing Roman emperors or doctrinal exile. He was a village shoemaker and pastor in England. Yet he too came to believe that one brief life should be spent under a heavenly commission rather than inside a circle of safety. That man was William Carey.

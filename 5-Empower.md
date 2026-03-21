@@ -1,6 +1,6 @@
 # Chapter 5 - Empower: From Formation to Fruitful Multiplication
 
-If Chapter 4 asked how believers are rooted, Chapter 5 asks what the church must do with people who are being formed. The answer is not complicated, but many churches still resist it. The church must empower them. It must equip them, entrust them, and release them into the work of ministry.
+Believers who are being formed must not remain spectators. Once people are rooted in Christ, the church has to decide what it will do with them. The answer is not complicated, though many churches still resist it: equip them, entrust them, and release them into the work of ministry.
 
 That matters because Chapter 1 already exposed something crucial: life without mission is meaningless. The same principle applies inside the church. A church that keeps formed believers circling comfort, routine, and dependency is not protecting them. It is shrinking them. People who have been brought to Christ and rooted in Christ must not remain spectators.
 

@@ -1,6 +1,8 @@
 # Chapter 2 - What Are You Called to Do?
 
-If Chapter 1 asked who you are, Chapter 2 asks what that identity is for. Once a person hears that he was made by God, known by God, and saved for more than survival, another question rises immediately: what am I called to do with my one life?
+Once identity is recovered, another question rises immediately: what is that identity for? A person who hears that he was made by God, known by God, and saved for more than survival cannot stop with self-understanding alone. He has to ask what he is called to do with his one life.
+
+That question is personal and corporate at the same time. Every believer must ask it with his own life, and every church must ask it with its shared life. Otherwise the language of calling stays abstract.
 
 That question matters because vague identity produces vague obedience. A church can say that it belongs to Jesus and still spend most of its energy on things Jesus never made central. It can be sincere, busy, generous, talented, and exhausted while quietly drifting from the one assignment Christ actually gave.
 
@@ -12,9 +14,11 @@ Throughout Scripture, God names people and then calls them. Humanity is made in 
 
 That pattern matters because Christian purpose is not self-contained. God does not reveal identity merely to calm our insecurity. He reveals identity so that obedience becomes possible. He tells us who we are so that we can understand why we are here.
 
-So what are you called to do? You are called to make disciples. You are called to live and speak in such a way that other people come to know Jesus, learn to obey Him, and begin walking in His ways. This calling is not confined to pulpits, mission trips, or formal ministry titles. It touches homes, friendships, meals, conversations, work, parenting, hospitality, generosity, correction, mercy, and witness. The whole of life becomes usable in the hands of God.
+So what are you called to do? At the personal level, you are called to make disciples. You are called to live and speak in such a way that other people come to know Jesus, learn to obey Him, and begin walking in His ways. This calling is not confined to pulpits, mission trips, or formal ministry titles. It touches homes, friendships, meals, conversations, work, parenting, hospitality, generosity, correction, mercy, and witness. The whole of life becomes usable in the hands of God.
 
-That does not mean the church is called to dominate by force, build a Christian spectacle, or chase influence for its own sake. The goal is not civilizational swagger. The goal is that people would come to Christ, households would be reordered under His lordship, and the light of His kingdom would become visible through a formed and faithful people.
+At the corporate level, that does not mean the church is called to dominate by force, build a Christian spectacle, or chase influence for its own sake. The goal is not civilizational swagger. The goal is that people would come to Christ, households would be reordered under His lordship, and the light of His kingdom would become visible through a formed and faithful people.
+
+But a calling that clear is often buried under secondary things that feel more urgent, more measurable, or more flattering to human ambition. That is where false assignments enter.
 
 ## False Assignments
 
@@ -36,6 +40,8 @@ Programs are not the enemy. Confused purpose is. A program can serve disciple-ma
 
 Clarity is mercy because it exposes what busyness can hide. If a church is not making disciples, then its language of success may only be camouflage.
 
+And once confusion has been exposed, the positive answer must be stated plainly again.
+
 ## The Actual Assignment
 
 Jesus did not merely ask the church to spread inspiration. He commanded the church to make disciples of all nations, teaching them to obey all that He commanded. That means the church is called to do more than gather hearers. It is called to form obedient people.
@@ -47,6 +53,8 @@ This kind of formation does not happen mainly through polished events. It happen
 So what are you called to do? Disciple the new believer. Disciple the tired parent. Disciple the drifting teenager. Disciple the young professional who looks successful and still feels empty. Disciple the wounded man. Disciple the lonely woman. Disciple the volunteer, the neighbor, the friend, the future leader. Teach them Christ. Model repentance. Share life. Train obedience. Help them become the kind of people who can do the same for others.
 
 This is how mission gives shape to life. It takes ordinary faithfulness and fills it with kingdom purpose.
+
+That assignment is clear in principle. The next challenge is giving it a simple, repeatable shape in the life of a church.
 
 ## A Simple Way Forward
 

@@ -6,7 +6,7 @@ Hosius of Cordoba is not as famous as Constantine or Athanasius, but he is one o
 
 Hosius lived through one of the church's strangest transitions. He was formed in an age when imperial power could imprison or kill Christians, and he survived into an age when emperors sought Christian bishops as advisers. That shift created a new kind of pressure. The question was no longer only whether the church could endure persecution. It was whether the church could remain the church when rulers wanted religious unity for political stability, when councils gathered under imperial patronage, and when theological conflict began to affect public order across whole provinces.
 
-This is where social and political background matters. The empire was vast, expensive to govern, and often unstable. Emperors needed cohesion. Bishops had become major local figures. Doctrine was no longer a matter tucked safely inside private assemblies. It touched the peace of cities, the alliances of courts, and the loyalties of whole regions. That makes Hosius easier to feel in present terms. He was not operating in a quiet church study. He was living where faith, public authority, and the demand for managed unity all collided.
+The empire was vast, expensive to govern, and often unstable. Emperors needed cohesion. Bishops had become major local figures. Doctrine was no longer a matter tucked safely inside private assemblies. It touched the peace of cities, the alliances of courts, and the loyalties of whole regions. Hosius was not operating in a quiet church study. He was living where faith, public authority, and the demand for managed unity all collided.
 
 Born around AD 256 in Spain, Hosius became bishop of Cordoba before Constantine's rise. He attended the Council of Elvira, advised Constantine in the years after the emperor's ascent, and played a major role in the events surrounding the Council of Nicaea in AD 325. He stood in the middle of one of the great temptations of church history: what happens when the ruler who favors Christianity also wants to manage it?
 
@@ -26,12 +26,12 @@ That part of the story should not be hidden. In fact, it is one reason the story
 
 That is deeply relevant for the modern church. Many people secretly assume there are only two kinds of leaders: flawless champions and worthless failures. Real history is more searching than that. There are aged saints who have carried truth for decades, then falter under concentrated force, then repent and die clinging again to Christ. That does not diminish the seriousness of compromise. It magnifies the seriousness of repentance.
 
-## Why Hosius Matters for Identity and Calling
+## Calling Above Imperial Favor
 
-Hosius helps answer a difficult question: how does a believer remain faithful when the threat is not open persecution but entanglement with power? His life answers by showing that calling must remain anchored below public role and above imperial favor. He was not first an adviser. He was first a bishop under Christ. That identity had to outlast both privilege and pressure.
+The threat around Hosius was not open persecution alone, but entanglement with power. His life shows that calling must remain anchored below public role and above imperial favor. He was not first an adviser. He was first a bishop under Christ. That identity had to outlast both privilege and pressure.
 
 He also reminds us that life is temporary enough to make courage reasonable. By the time he faced the worst of his suffering, he was an old man. He had already spent decades in ministry. He could have protected what remained of his comfort by surrendering quietly. Instead, he resisted for a long time, and even after stumbling, he returned. That is what a heavenly calling looks like in an elderly saint: not clinging to the last scraps of ease, but refusing to let earthly survival become the highest good.
 
 Western Christianity needs this pattern because it is often tempted to choose either defiant rhetoric or timid accommodation. Hosius suggests a better path. Stand where truth requires. Refuse to flatter power. Admit weakness honestly. Return quickly from compromise. Finish with Christ rather than with convenience.
 
-From Hosius the story naturally moves to Athanasius, whose long struggle in exile made the same truth visible from another angle. If Hosius shows an older bishop near the emperor learning the limits of imperial authority, Athanasius shows what happens when the cost of fidelity is years of displacement.
+Athanasius would make the same truth visible from another angle. If Hosius shows an older bishop near the emperor learning the limits of imperial authority, Athanasius shows what happens when the cost of fidelity is years of displacement.
