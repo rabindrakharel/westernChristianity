@@ -1,6 +1,6 @@
 # Example 4 - Hosius of Cordoba: Near the Emperor, Still Under Christ
 
-Hosius of Cordoba is not as famous as Constantine or Athanasius, but he is one of the steady men of the fourth century. That kind of figure deserves attention. History is often remembered through emperors, headline controversies, and the most quoted voices, but the church has also been preserved by older bishops, patient counselors, and men who learned how to stand near power without surrendering the church to it.
+Hosius of Cordoba is less famous than Constantine or Athanasius, but he belongs in the story. History is often remembered through emperors, headline controversies, and the most quoted voices. It is also preserved by older bishops, patient counselors, and men who learn how to stand near power without surrendering the church to it.
 
 ## The World Around Him
 
@@ -12,26 +12,26 @@ Born around AD 256 in Spain, Hosius became bishop of Cordoba before Constantine'
 
 ## Proximity to Power Was Not His Identity
 
-Hosius had access that many church leaders would have envied. He served as an ecclesiastical adviser to Constantine. He was trusted enough to be sent into conflict zones. He helped in the struggle against Donatism in the West and was influential in the defense of Nicene orthodoxy against Arianism. At Nicaea he helped secure the creed's insistence that the Son is of the same substance as the Father. That was not word games. It was a defense of the truth that the church's Savior is truly divine.
+Hosius had access that many church leaders would have envied. He served as an ecclesiastical adviser to Constantine. He was trusted enough to be sent into conflict zones. He helped in the struggle against Donatism in the West and was influential in the defense of Nicene orthodoxy against Arianism. At Nicaea he helped secure the creed's insistence that the Son is of the same substance as the Father. This was not wordplay. It was a defense of the truth that the church's Savior is truly divine.
 
-But Hosius matters not only because he stood near the emperor when the empire was favorable. He matters because later, when imperial pressure bent in a different direction, he did not simply treat the emperor's wishes as the voice of God. That is a vital distinction. Access to rulers is always spiritually dangerous because it tempts leaders to confuse usefulness to the state with faithfulness to Christ.
+But Hosius matters not only because he stood near the emperor when the empire was favorable. He matters because, when imperial pressure later bent in a different direction, he did not simply mistake the emperor's wishes for the voice of God. Access to rulers is always spiritually dangerous, because it tempts leaders to confuse usefulness to the state with faithfulness to Christ.
 
-The church in every age needs men and women who can tell the difference. Hosius appears to have understood that the emperor could serve the church in some civil sense, but he could not own its conscience. Doctrine does not become true because rulers prefer it. Christ does not alter His identity to satisfy court politics.
+Hosius seems to have understood that an emperor might serve the church in a civil sense, but could not own its conscience. Doctrine does not become true because rulers prefer it. Christ does not adjust His identity to satisfy court politics.
 
 ## Pressure, Weakness, and a Final Return
 
 Later in life, under Constantius II, the pressure increased sharply. Hosius resisted efforts to have Athanasius condemned and rebuked imperial intrusion into the church's doctrinal life. For that resistance he was summoned, detained, threatened, and reportedly subjected to physical violence. Eventually, as an elderly man under heavy coercion, he signed the Arian formula of Sirmium in AD 357, though ancient sources indicate that he repudiated that compliance before his death.
 
-That part of the story should not be hidden. In fact, it is one reason the story is useful. Christian heroes are not preserved by pretending they never bent under pressure. Hosius teaches something more sober and more helpful. A faithful life may include a painful moment of weakness. The issue is not whether a servant of Christ appears unbreakable in every hour. The issue is whether, in the end, he returns to the truth he knows he cannot surrender.
+That part of the story should not be hidden, and in fact it is one reason the story is useful. Christian heroes are not served by pretending they never bent under pressure. Hosius teaches something more sober. A faithful life may include a painful moment of weakness. The question is not whether a servant of Christ appears unbreakable in every hour, but whether, in the end, he returns to the truth he knows he cannot surrender.
 
-That is deeply relevant for the modern church. Many people secretly assume there are only two kinds of leaders: flawless champions and worthless failures. Real history is more searching than that. There are aged saints who have carried truth for decades, then falter under concentrated force, then repent and die clinging again to Christ. That does not diminish the seriousness of compromise. It magnifies the seriousness of repentance.
+That is deeply relevant to the modern church. Many people secretly imagine there are only two kinds of leaders: flawless champions and worthless failures. Real history is more searching. There are aged saints who carry truth for decades, then falter under concentrated force, then repent and die clinging again to Christ. That does not reduce the seriousness of compromise. It sharpens the seriousness of repentance.
 
 ## Calling Above Imperial Favor
 
-The threat around Hosius was not open persecution alone, but entanglement with power. His life shows that calling must remain anchored below public role and above imperial favor. He was not first an adviser. He was first a bishop under Christ. That identity had to outlast both privilege and pressure.
+The threat around Hosius was not open persecution alone, but entanglement with power. His life shows that calling must remain anchored beneath public role and beyond imperial favor. He was not first an adviser. He was first a bishop under Christ, and that identity had to outlast both privilege and pressure.
 
-He also reminds us that life is temporary enough to make courage reasonable. By the time he faced the worst of his suffering, he was an old man. He had already spent decades in ministry. He could have protected what remained of his comfort by surrendering quietly. Instead, he resisted for a long time, and even after stumbling, he returned. That is what a heavenly calling looks like in an elderly saint: not clinging to the last scraps of ease, but refusing to let earthly survival become the highest good.
+He also reminds us that life is temporary enough to make courage reasonable. By the time he faced the worst of his suffering, he was an old man who had already spent decades in ministry. He could have protected what remained of his comfort by surrendering quietly. Instead he resisted for a long time, and even after stumbling, he returned. That is what a heavenly calling can look like in an elderly saint: not clutching at the last scraps of ease, but refusing to let earthly survival become the highest good.
 
-Western Christianity needs this pattern because it is often tempted to choose either defiant rhetoric or timid accommodation. Hosius suggests a better path. Stand where truth requires. Refuse to flatter power. Admit weakness honestly. Return quickly from compromise. Finish with Christ rather than with convenience.
+Western Christianity needs that pattern because it is often tempted toward either defiant rhetoric or timid accommodation. Hosius suggests a better path. Stand where truth requires. Refuse to flatter power. Admit weakness honestly. Return quickly from compromise. Finish with Christ rather than convenience.
 
 Athanasius would make the same truth visible from another angle. If Hosius shows an older bishop near the emperor learning the limits of imperial authority, Athanasius shows what happens when the cost of fidelity is years of displacement.

@@ -1,6 +1,6 @@
 # Example 2 - Alban: The Hidden Man in Roman Britain
 
-Not every holy life begins in a famous setting. Some begin in a house, under pressure, when one act of welcome becomes an act of risk. Alban's story is simpler, less documented, and in some ways less dramatic than the stories of Perpetua and Felicity. That is part of its force. It shows how Christian identity can take root quietly before it is ever displayed in public.
+Alban does not enter the story from a famous court or a crowded arena. He appears in Roman Britain, in a house where hospitality slowly became witness and witness became risk. His story is simpler than the account of Perpetua and Felicity, and the sources are thinner, but that is part of why it matters. Christian identity often forms quietly before it is ever tested in public.
 
 ## The World Around Him
 
@@ -12,27 +12,27 @@ Alban is remembered as the first British martyr. According to the early Christia
 
 ## When Hospitality Became Witness
 
-Alban did not begin as a celebrated teacher, bishop, or missionary. He was not known for a public office in the church. He simply opened his home. Yet that ordinary act became the place where identity was re-formed. He saw in the fugitive priest not only religious conviction, but a different kind of life. A persecuted man carried a peace and gravity that exposed the poverty of the old order.
+Alban did not begin as a celebrated teacher, bishop, or missionary. The tradition simply remembers a man who opened his home and, in doing so, found his life redirected. In the fugitive priest he encountered not only religious conviction but a different kind of life, marked by prayer, gravity, and peace. What began as shelter for a stranger became the place where Alban himself was changed.
 
-When the authorities came, Alban did something astonishing. He exchanged clothes with the priest and presented himself in the priest's place. The gesture was practical, courageous, and costly. It was also deeply Christian. He had received a faith in which another had already stood in the sinner's place. Now, in a much smaller and creaturely way, Alban embodied the same pattern of sacrificial solidarity.
+When the authorities came, Alban did something astonishing. He exchanged clothes with the priest and presented himself in the priest's place. The gesture was practical, courageous, costly, and deeply Christian. He had received a faith in which another had already stood in the sinner's place. Now, in a much smaller and creaturely way, Alban embodied that same pattern of sacrificial solidarity.
 
-Alban was not driven by the instinct to protect himself at all costs. Something had changed in him. Once Christ claimed him, self-preservation could no longer function as his final law. He had seen a better kingdom and a truer Lord. The categories of success and loss were no longer what they had been before.
+Something in Alban had shifted. Once Christ claimed him, self-preservation could no longer function as his final law. He had seen a better kingdom and a truer Lord, and the old measures of success and loss no longer held the same power.
 
 ## An Unnoticed Life Seen by God
 
-Many believers imagine that calling becomes real only when it looks impressive. Alban's story dismantles that assumption. He did not build an institution. He did not write theology. He did not shape an empire. He took one costly step of obedience, and the church remembered him for centuries. That should steady ordinary Christians. Hidden faithfulness is not invisible to God.
+Many believers imagine that calling becomes real only when it looks impressive. Alban's story unsettles that assumption. He did not build an institution, write theology, or shape an empire. He took one costly step of obedience, and the church remembered him for centuries. That should steady ordinary Christians, because hidden faithfulness is not hidden from God.
 
-This matters especially in the modern West, where people are trained to measure significance by reach, visibility, and recognized influence. A life can look small and still be spiritually weighty. A kitchen table can become a place of conversion. A spare room can become a sanctuary. A house can become a site of resistance to lies. Alban reminds us that heavenly calling often arrives disguised as the next faithful act directly in front of us.
+The point is especially searching in the modern West, where significance is often measured by reach, visibility, and recognized influence. A life can look small and still carry spiritual weight. A kitchen table can become a place of conversion. A spare room can become a sanctuary. A house can become a place where lies begin to lose their grip. Alban reminds us that heavenly calling often arrives as the next faithful act directly in front of us.
 
-He also reminds us that life is temporary in a way that clarifies rather than diminishes vocation. Alban knew that protecting the priest could cost him everything. He did it anyway. Why? Because once earthly life is seen as a stewardship rather than a possession, courage becomes thinkable. The temporary nature of life does not make sacrifice absurd. It makes self-hoarding absurd.
+He also reminds us that life's brevity clarifies vocation rather than diminishing it. Alban knew that protecting the priest could cost him everything, and he did it anyway. Once earthly life is understood as a stewardship rather than a possession, courage becomes more imaginable. The temporary nature of life does not make sacrifice absurd. It makes self-hoarding look small.
 
 ## Fidelity Without Spectacle
 
-Roman Britain was not the center of the empire. Alban was not one of its famous men. Yet his witness says something enduring to the church. God does not need celebrity to preserve a testimony in history. He often chooses people who are structurally ordinary and then fills their decisions with unusual significance.
+Roman Britain was not the center of the empire, and Alban was not one of its celebrated men. Yet his witness says something enduring to the church: God does not need celebrity to preserve a testimony in history. He often entrusts it to ordinary people and fills their decisions with unusual significance.
 
-This is where Alban speaks directly into the crisis of Western Christianity. Many churches are preoccupied with scale, momentum, and public footprint. They worry about how to remain visible, impressive, and culturally legible. Alban offers another pattern. Start with faithfulness in the home. Start with courage toward the person God has placed in front of you. Start with the recognition that one life is brief and therefore should not be spent merely protecting comfort.
+That speaks directly to Western Christianity, which is often preoccupied with scale, momentum, and public footprint. Alban offers another pattern. Begin with faithfulness in the home. Begin with courage toward the person God has placed in front of you. Begin with the recognition that one life is brief and therefore should not be spent merely protecting comfort.
 
-The hidden life is not the lesser life when it is offered to Christ. In fact, many of the church's deepest recoveries begin there. A home opens. A believer watches, listens, learns, and obeys. Fear loses some of its control. Identity settles. Then when pressure comes, courage is no longer improvised. It has already been forming in secret.
+The hidden life is not a lesser life when it is offered to Christ. Many of the church's deepest recoveries begin there. A home opens. A believer watches, listens, learns, and obeys. Fear loosens its grip. Identity settles. Then when pressure comes, courage is no longer improvised; it has already been forming in secret.
 
 Perpetua and Felicity show identity under direct assault. Alban shows identity taking root in ordinary space. Together they teach that the church is not renewed mainly by spectacle, but by people who know that they belong to Christ more deeply than they belong to safety, routine, or public approval.
 
