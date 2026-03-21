@@ -2,7 +2,7 @@
 
 Believers who are being formed must not remain spectators. Once people are rooted in Christ, the church has to decide what it will do with them. The answer is not complicated, though many churches still resist it: equip them, entrust them, and release them into the work of ministry.
 
-That matters because Chapter 1 already exposed something crucial: life without mission is meaningless. The same principle applies inside the church. A church that keeps formed believers circling comfort, routine, and dependency is not protecting them. It is shrinking them. People who have been brought to Christ and rooted in Christ must not remain spectators.
+That matters because believers without clear purpose eventually shrink inward. The same thing happens inside the church. A believer can attend faithfully, serve where asked, and still never be entrusted with a person, a table, a prayer burden, or a real share in the work. That is not protection. It is slow diminishment. People who have been brought to Christ and rooted in Christ must not remain spectators.
 
 ## Commissioned, Not Contained
 
@@ -16,7 +16,7 @@ This does not mean the church releases people carelessly. Character matters. Doc
 
 Empower only makes sense if we are clear about what believers are being empowered to do. Some churches speak of empowerment when they really mean more volunteers for the same internal systems. Some of that work may be useful, but it is too small to carry the full weight of biblical commissioning.
 
-Believers are empowered for the work of ministry. In the logic of this book, that means helping people engage and establish others. It means bearing witness to Christ in the world. It means praying for people, opening homes, serving neighbors, sharing testimony, leading small gatherings, walking with younger believers, helping the wounded take root, and carrying the life of Christ into ordinary places.
+Believers are empowered for the work of ministry. Here, that means more than filling internal roles. It means helping real people move toward Christ and take root in Him. It means praying for people, opening homes, serving neighbors, sharing testimony, leading small gatherings, walking with younger believers, helping the wounded take root, and carrying the life of Christ into ordinary places.
 
 In the New Testament, empowerment was often recognized publicly. The church prayed. It laid hands on people. It acknowledged grace and calling. That recognition was not theatrical. It was the church saying, "We see what God is doing in you, and we are entrusting you with real responsibility."
 
@@ -34,12 +34,34 @@ Budgets reveal this issue too. The way a church spends its money shows what kind
 
 ## From Addition to Multiplication
 
-This is where Engage, Establish, and Empower reveal their multiplying force. Engage brings people to Jesus. Establish roots them in Jesus. Empower sends them with Jesus so that others can now be engaged and established through them. At that point, discipleship stops being a circle that always returns people to the same few leaders and becomes a multiplying pattern in the body.
+Multiplication begins when people who have been engaged and established stop circling the same few leaders and start carrying Christ to others. Engage brings people to Jesus. Establish roots them in Jesus. Empower sends them with Jesus so that others can now be engaged and established through them. What was once a closed circle becomes a living pattern in the body.
 
-A student reaches classmates. A family opens its home. A former addict walks patiently with another struggler. A couple rooted in prayer and Scripture begins helping younger couples. A small-group leader apprentices another leader. A once-timid believer begins sharing Christ, praying with people, and helping newcomers take root. This is how fruit multiplies. Not through spectacle, but through distributed faithfulness.
+Think of the young father who first came asking for prayer because his home was unraveling. He was met, taught, corrected, and loved. Months later he is no longer only receiving help. He has two younger men at his table on Wednesday night. He opens Scripture with them. He admits where he still needs grace. He follows up when one disappears. That is empowerment. The church did not merely keep him close. It entrusted him with people.
+
+That is how fruit multiplies. Not through spectacle, but through distributed faithfulness.
 
 Empower also guards the church from celebrity. Celebrity asks how much attention a ministry can gather. Empower asks how many faithful laborers can be released. Celebrity depends on central charisma. Empower depends on a body that is actually being equipped.
 
 The harvest is still plentiful. The workers are still few. The answer is not to keep believers circling internal systems forever. The answer is to equip the saints for the work of ministry, commission them in humility, and release them for the glory of Christ.
 
 And once a church begins doing that, one more question becomes unavoidable: what kind of leaders can shepherd a multiplying people without turning leadership into performance or control?
+
+## Questions for Reflection
+
+Sit with these questions slowly in the presence of God. Do not answer them quickly.
+
+1. Have I become a spectator where Christ is calling me to serve, witness, and help others grow?
+   Verses: Ephesians 4:11-12; 1 Peter 4:10; James 1:22
+
+2. Am I asking to be useful in the harvest, or am I settling for comfort, routine, and dependency?
+   Verses: Matthew 9:37-38; Ephesians 2:10; 1 Corinthians 15:58
+
+3. What gifts, experience, or wounds has God entrusted to me that could now serve someone else?
+   Verses: Romans 12:6-8; 2 Corinthians 1:3-4; 1 Corinthians 12:4-7
+
+4. Who am I helping to engage, establish, or grow, and who am I preparing to carry responsibility after me?
+   Verses: 2 Timothy 2:2; Titus 2:3-5; Hebrews 10:24
+
+5. Do I measure ministry by central visibility or by faithful multiplication?
+   Verses: John 3:30; 1 Corinthians 3:6-7; 2 Timothy 2:2
+

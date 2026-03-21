@@ -78,7 +78,7 @@ This audit focuses on coherence, transitions, and flow. It is not evaluating the
   Example: "Insecure leaders often take their sheep hostage..."
   Issue: The metaphor is much hotter and more accusatory than the surrounding prose. It creates a tonal spike that can distract from the underlying point about insecure leadership.
 
-## 6-Do you want to lead?.md
+## 6-Leadership.md
 
 - Lines 57-65
   Example: "home groups matter so much" / "Budgets should follow that same logic" / "could we lose the building and still build the church?"

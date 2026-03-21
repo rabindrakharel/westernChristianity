@@ -13,7 +13,7 @@ The goal of the book is to help Western churches speak to a searching, distracte
 
 - Names the ache for meaning beneath ordinary North American life.
 - Grounds human identity in what God says rather than in self-construction.
-- Argues that life without mission is meaningless and calls the church to recover its purpose in Christ.
+- Argues that human life is meant for God's purposes and calls the church to recover its purpose in Christ.
 
 ### 2) [What Are You Called to Do?](2-What%20are%20you%20called%20to%20do.md)
 **Focus:** Recovering disciple-making as the church's central assignment.
@@ -43,12 +43,12 @@ The goal of the book is to help Western churches speak to a searching, distracte
 - Emphasizes participatory, relational church life that can actually train and send laborers.
 - Frames multiplication as the normal fruit of a healthy church rather than a rare extra.
 
-### 6) [Do You Want to Lead?](6-Do%20you%20want%20to%20lead%3F.md)
-**Focus:** Recovering servant leadership for a multiplying church.
+### 6) [Leadership](6-Leadership.md)
+**Focus:** Leadership that makes the disciple-making path clear.
 
-- Reframes leadership as shepherding rather than performance.
-- Calls leaders to authenticity, repentance, prayer, accountability, and courage under the Word.
-- Connects leadership directly to feeding people, protecting formation, and releasing others into mission.
+- Reframes leadership as shepherding with a usable framework rather than vague good intentions.
+- Emphasizes proximity, training, and real entrusting instead of distant permission.
+- Connects leadership directly to Engage, Establish, and Empower in actual church life.
 
 ## How the Chapters Work Together
 
