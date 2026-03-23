@@ -1,83 +1,108 @@
 # Chapter 2 - What Are You Called to Do?
 
-Once identity is recovered, another question rises immediately: what is that identity for? A person who hears that he was made by God, known by God, and saved for more than survival cannot stop with self-understanding alone. He has to ask what he is called to do with his one life.
+Once identity is recovered, another question rises immediately: what is that identity for? A person who hears that he was made by God, known by God, and claimed by Christ cannot stop with self-understanding alone. He has to ask what he is called to do with his one life.
 
-That question is personal and corporate at the same time. Every believer must ask it with his own life, and every church must ask it with its shared life. Otherwise the language of calling stays abstract.
+Most people do not ask that question in formal ministry language. They ask it in the quiet after another full day that still felt strangely empty. If my life belongs to God, what is it for? How do work, family, suffering, obedience, and witness become more than survival? How does a life stop circling itself?
 
-The risen Jesus does not leave the church guessing. He tells it what to do. Make disciples of all nations. Teach them to obey all that He commanded. If human life is meant for God's purposes, then that charge is not an optional extra for unusually serious Christians. It is the central assignment of the church.
+Scripture answers that question with surprising unity. The Bible does not treat calling as a private search for personal fulfillment. It presents one outward movement. In Adam, God gives human beings dominion with the horizon of the whole earth. In Abraham, He gives blessing with the horizon of all the families of the earth. In Jesus, He gives witness with the horizon of all nations and the end of the earth. The core of calling is mission. Human beings are made to receive life from God and carry His rule, blessing, and truth outward in the world.
 
-## Saved, Then Sent
+If chapter 1 answered who you are, this chapter asks what a life returned to God is for.
 
-Throughout Scripture, God names people and then calls them. Abraham is blessed so the families of the earth may be blessed through him. Israel is called to be holy in the midst of the nations. The disciples are called to follow Jesus and then sent in His name. The church is brought out of darkness so that it may proclaim the excellencies of the One who called it.
+## A World to Fill
 
-That pattern matters because Christian purpose is not self-contained. God does not reveal identity merely to calm our insecurity. He reveals identity so that obedience becomes possible. He tells us who we are so that we can understand why we are here.
+Scripture begins not with human aimlessness, but with divine intention. In Genesis 1, God creates man and woman in His image and then blesses them: be fruitful and multiply, fill the earth and subdue it. The order matters. God names them before He sends them. Identity comes before assignment. Human beings do not invent a purpose after the fact. They receive it from the One who made them.
 
-Jesus did not save people so they could become better-adjusted spectators. He did not form a church so it could preserve a schedule, protect a brand, entertain a crowd, or anxiously manage decline. He gave a command, and the weight of that command falls on ordinary Christians in ordinary places.
+The Hebrew word for image, `tselem`, carries the idea of representation. Humanity is placed in God's world to reflect Him there. That is why dominion in Adam was never a private spiritual experience. It was a commission with geography. Fill the earth. Extend faithful image-bearing outward. Receive the world from God and order it under His rule.
 
-So what are you called to do? At the personal level, you are called to make disciples. You are called to live and speak in such a way that other people come to know Jesus, learn to obey Him, and begin walking in His ways. This calling is not confined to pulpits, mission trips, or formal ministry titles. It touches homes, friendships, meals, conversations, work, parenting, hospitality, generosity, correction, mercy, and witness. The whole of life becomes usable in the hands of God.
+When Genesis speaks of dominion and subduing, it is not granting permission for proud self-assertion. Read inside the goodness of God's own rule, it is a call to stewardship. Human beings are meant to cultivate, guard, order, and tend what belongs to God. The commands to be fruitful and multiply, `parah` and `rabah`, are not about human self-exaltation. They are about life under God's blessing moving outward.
 
-At the corporate level, that does not mean the church is called to dominate by force, build a Christian spectacle, or chase influence for its own sake. The goal is not civilizational swagger. The goal is that people would come to Christ, households would be reordered under His lordship, and the light of His kingdom would become visible through a formed and faithful people.
+That outward movement is easy to miss because Christians often hear Genesis 1 mainly as a statement about dignity. It is that, but not only that. Human beings are not only made to possess worth. They are made to carry God's good order outward. Dominion in Adam means the life of God is meant to spread through faithful human beings across the earth He made.
 
-But a calling that clear is often buried under secondary things that feel more urgent, more measurable, or more flattering to human ambition. That is where false assignments enter.
+Sin twisted that calling. Dominion became domination. Fruitfulness became rebellion multiplied. The earth was still filled, but not with holy image-bearing. It filled with violence, pride, and self-rule. Yet sin did not erase the original direction of the calling. It distorted it. From the opening pages of Scripture, human life is meant to move outward under God.
 
-## False Assignments
+## Blessed for the Families of the Earth
 
-Many churches are not empty of effort. They are crowded with substitutes. The week fills with planning meetings, volunteer gaps, budget pressure, Sunday run sheets, campaigns, conferences, social posts, and anxious talk about relevance or decline. None of those things automatically means compromise. But all of them can crowd the assignment Christ actually gave.
+That outward movement becomes even clearer when God calls Abraham. In Genesis 12, the Lord says, "Go from your country and your kindred and your father's house to the land that I will show you." The Hebrew phrase `lekh-lekha` has force to it. Abraham is not being invited to a lifestyle adjustment. He is being summoned out of the world that named him, secured him, and told him who he was. Country, kindred, and father's house were identity, inheritance, and belonging.
 
-That is where confusion spreads. A pastor starts thinking his job is to keep the machine running. A ministry leader starts thinking her job is to maintain momentum and justify relevance. A church begins to think faithfulness means preserving a cultural bloc, winning public arguments, or keeping institutional life from shrinking. A gifted preacher starts treating ministry as proof of worth. A young leader starts building a crowd because the crowd feels like identity.
+God's call to Abraham therefore does two things at once. It loosens Abraham from the old world, and it reorients him toward God's purpose. Abraham is not called away from one identity into another private existence. He is called into a promise.
 
-But Christ did not commission His church to build private kingdoms. He did not call leaders to create a marketplace of personalities. He did not tell believers to outsource hope to politics or to confuse church activity with obedience. He called His people to make disciples.
+And what is the shape of that promise? Blessing. The Hebrew root `barak` drives the passage: "I will bless you ... so that you will be a blessing." The promise does not end on Abraham himself. Just after Babel, where human beings tried to make a name for themselves, God tells Abraham that He will make his name great. But this is not a private success story. Abraham is blessed so that blessing will travel through him. "In you all the families of the earth shall be blessed."
 
-False assignments exhaust people because they ask them to carry burdens Jesus never assigned. Keep the room full. Keep the energy high. Keep the brand alive. Keep the donors happy. Keep the platform growing. Keep the optics strong. Those pressures can consume years of life while producing very little maturity.
+What was broad in Adam becomes explicit in Abraham. In Adam the horizon was the earth. In Abraham the families of the earth are named. God's people are not chosen to become a closed circle of religious privilege. They are chosen to become a channel through which God's blessing moves outward.
 
-## Why Clarity Matters
+That matters because many believers still think of calling as mainly personal: my peace, my growth, my future, my stability. Scripture refuses to keep the matter there. Abraham shows that receiving from God and being sent by God belong together. To be gathered by God is to be made useful in His purpose for others.
 
-When a church loses clarity about its assignment, it usually gets louder before it gets healthier. It adds events, raises production, launches initiatives, and multiplies activity. But activity is not the same as fruit. A church can be crowded and still spiritually thin. People can attend for years while remaining unknown, under-formed, and unprepared to help anyone else follow Jesus.
+## All Authority, All Nations
 
-This is why so many believers feel tired. They are moving constantly without a coherent sense of purpose. Parents feel stretched. Young adults feel unconvinced. Staff feel indispensable. Members feel underused. Leaders feel trapped between performance and depletion. The deeper problem is not effort. It is fragmentation.
+The line running through Adam and Abraham reaches its center in Jesus Christ. He is the true image of God, the faithful Son, and the promised seed through whom the blessing of Abraham reaches the nations. He does not abandon humanity's original calling. He fulfills it. He does not cancel God's promise to bless the families of the earth. He brings it into open command.
 
-Programs are not the enemy. Confused purpose is. A program can serve disciple-making well when it remains a tool. It becomes dangerous when it quietly becomes the mission. That is why churches must ask harder questions than turnout, energy, and attendance. Are people learning to obey Jesus? Are they being known, corrected, encouraged, and trained? Are they becoming the kind of people who can help someone else walk with Christ?
+That is why the Great Commission matters so much. When the risen Jesus says, "All authority in heaven and on earth has been given to Me. Go therefore and make disciples of all nations," He is not adding a disconnected church program at the end of Matthew. He is speaking as the Lord in whom the whole storyline comes together. The Greek phrase `pasa exousia` means total authority. The One who sends is the One who rules.
 
-Clarity is mercy because it exposes what busyness can hide. If a church is not making disciples, then its language of success may only be camouflage.
+The commission itself is equally revealing. In Matthew's Greek sentence, `matheteusate`, make disciples, is the central command. The point is not movement for its own sake. The point is that people from the nations would be brought under the lordship of Jesus, baptized into the name of the Father and of the Son and of the Holy Spirit, and taught to obey all that Christ commanded.
 
-Once the substitutes have been named, Jesus's words have to be heard again.
+Acts says the same thing from another angle. Jesus tells His disciples that they will receive power when the Holy Spirit comes upon them, and that they will be His witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth. The horizon keeps widening. Adam is told to fill the earth. Abraham is promised blessing for the families of the earth. The church is sent with witness to the ends of the earth. Different moments in the biblical story, but one missional direction.
 
-## Teach Them to Obey
+This is the common meaning of the texts. God's people are never gathered merely to remain where they are. They are gathered so that the life and lordship of God move outward through them. Mission is not an optional department of Christian life. It is the restored form of humanity's calling in Christ.
 
-Jesus did not merely ask the church to spread inspiration. He commanded the church to make disciples of all nations, teaching them to obey all that He commanded. The pressure of that command falls on obedience. The church is called to do more than gather hearers. It is called to form people whose lives come under the lordship of Christ.
+## Fruit That Remains
 
-A disciple is not merely a church attender, and a disciple is not merely someone who agrees with Christian ideas. A disciple is someone learning to follow Jesus in the whole of life: in thought, speech, desire, money, relationships, work, suffering, holiness, and witness. A disciple learns repentance, not just enthusiasm. A disciple learns obedience, not just agreement.
+At this point a danger appears. If mission is central, some readers will hear only pressure. They will imagine noise, activity, performance, and burnout dressed up as zeal. Jesus will not allow that misunderstanding.
 
-This kind of formation does not happen mainly through polished events. It happens through proclamation, teaching, imitation, correction, prayer, confession, shared burdens, and durable relationships. It happens when spiritual mothers and fathers stay close enough to say, "Let me show you how to walk this out." It happens around tables, in homes, in prayer, in hard conversations, and in ordinary acts of love where truth becomes visible.
+In John 15, He says, "Abide in Me ... whoever abides in Me and I in him, he it is that bears much fruit." The key verb is `meno`: remain, stay, continue. Christian mission is not frantic activism. It is fruitfulness flowing from union with Christ. The sent life is not powered by ego, technique, or adrenaline. It is powered by the life of Jesus Himself.
 
-So what are you called to do? Sit with the new believer. Walk with the tired parent. Stay near the drifting teenager. Help the young professional who looks successful and still feels empty. Make room for the wounded man, the lonely woman, the volunteer, the neighbor, the friend, the future leader. Teach them Christ. Model repentance. Share life. Train obedience. Help them become the kind of people who can do the same for others.
+That protects the church from two opposite errors. One error turns calling inward until faith becomes private inspiration, personal therapy, or vague spirituality. The other turns calling into constant visible activity, as though fruit could be manufactured by effort alone. Jesus rejects both. Apart from Him we can do nothing. But in Him real fruit appears, and it remains.
 
-This is how mission gives shape to life. It takes ordinary faithfulness and fills it with kingdom purpose.
+That fruit is larger than one category. It includes character, obedience, holiness, endurance, love, generosity, courage, and speech that tells the truth. It includes households shaped by grace, friendships marked by patience, work offered to God, sins put to death, suffering borne with hope, and neighbors loved clearly enough to hear the gospel. It also includes what the New Testament eventually names openly: the forming of disciples, people brought to Christ and taught to walk in His ways.
 
-That assignment is clear in principle. What churches need now is a simple, repeatable shape for living it together.
+So mission is not opposed to abiding. Abiding is what makes mission real. You are not sent because you are impressive. You are sent because Christ has joined you to Himself. His authority grounds the commission. His life sustains the obedience.
 
-## A Simple Way Forward
+## Mission in Ordinary Life
 
-The rest of this book follows one simple movement. Engage means moving toward people with mercy, truth, and gospel clarity. Establish means rooting believers in Word, Spirit, and fellowship until their new life in Christ becomes durable. Empower means equipping and releasing formed believers to serve, witness, and disciple others in turn.
+So what are you called to do?
 
-That is not a slogan. It is a pathway. It begins with the one assignment Jesus never withdrew: make disciples. And because disciple-making first moves outward in love, the next chapter begins with Engage.
+You are called to live a life that does not terminate on yourself. You are called to receive life from Christ and carry His blessing, truth, and lordship outward. That is the core direction of calling.
+
+For some believers, that outward movement will include crossing cultures, planting churches, or going to hard places. For many others, it will begin much nearer. A father teaches his children the words of Jesus and turns his table into a place of truth and prayer. A woman opens her home to younger believers and steadies them in faith. A worker refuses compromise, speaks honestly, and becomes the person others trust when life breaks open. A student learns to move toward lonely classmates instead of only protecting social comfort. A church refuses to exist for its own maintenance and begins to ask who nearby is unreached, weary, wandering, or ready to listen.
+
+Mission is not always departure from ordinary life. Often it is ordinary life reoriented outward under the lordship of Christ. Home, work, friendship, hospitality, generosity, witness, correction, and service all become usable in the hands of God. The issue is not whether every Christian has the same form of calling. The issue is whether every Christian understands the same direction of calling.
+
+That distinction matters. The forms vary. The direction does not. Not everyone is called to the same role, but every believer is called away from self-enclosure. No Christian was saved merely to become better organized, more respectable, or more privately religious. In Christ, believers are gathered into a people whose lives move outward for the good of others and the glory of God.
+
+This is why mission must be personal and corporate at the same time. Every believer must ask, "How is my life moving outward under Christ?" Every church must ask, "How is our life together carrying the gospel outward?" If either question is missing, calling shrinks.
+
+## When Calling Turns Inward
+
+When this biblical line is forgotten, false versions of calling rush in. Individuals reduce calling to self-fulfillment. Churches reduce it to activity, image, attendance, or institutional survival. People stay busy, but the movement turns inward.
+
+That is why some churches exhaust their people while producing so little lasting fruit. They ask members to preserve a schedule, protect a brand, or keep a machine alive. There may be meetings, motion, numbers, and noise. Yet very little of it is actually ordered toward seeing people brought under the lordship of Christ.
+
+The trouble is not simply that such churches are inefficient. The trouble is that they have mistaken maintenance for mission. They have taken a people called outward and trained them to orbit themselves. That is always a distortion of the biblical pattern.
+
+Jesus did not form a people so they could manage decline with better optics. He formed a people who would abide in Him, bear fruit, and move outward with His gospel. That is why the church must be wary of anything that makes it more preoccupied with preserving itself than with carrying Christ to the people around it.
+
+## The First Outward Step
+
+If mission is the core direction of calling, then the question becomes practical very quickly. How does that outward movement begin?
+
+It does not begin with a platform. It begins with people. It begins when a life that belongs to Christ starts moving toward actual human beings with truth, mercy, and gospel clarity. That is the first doorway of mission. Before believers can establish others in the faith or empower them for service, they have to move toward them in love.
+
+That is why the next chapter begins with Engage. The calling of God does not remain an inward conviction. It takes a step outward. It moves toward neighbors, coworkers, families, strangers, doubters, and strugglers. Mission begins there.
 
 ## Questions for Reflection
 
 Sit with these questions slowly in the presence of God. Do not answer them quickly.
 
-1. Have I treated disciple-making as central to Christian life, or as an optional task for unusually serious believers?
-   Verses: Matthew 28:18-20; 2 Corinthians 5:18-20; 1 Peter 2:9
+1. Have I reduced my calling to personal stability, growth, or success instead of seeing it as part of God's outward purpose in the world?
+   Verses: Genesis 1:26-28; Genesis 12:1-3; Matthew 28:18-20; Acts 1:8
 
-2. What false assignments have been consuming my energy, attention, or sense of success?
-   Verses: Luke 10:41-42; Acts 6:2-4; 1 Corinthians 3:6-9
+2. Where in my life is Christ calling me to carry His blessing, truth, and lordship outward rather than keeping faith private?
+   Verses: Matthew 5:14-16; 1 Peter 2:9-12; Colossians 4:5-6
 
-3. Where am I confusing activity with fruit?
-   Verses: John 15:5, 8; 1 Corinthians 3:6-7; Matthew 7:21
+3. Am I trying to be fruitful through pressure and performance, or through abiding in Christ?
+   Verses: John 15:4-8, 16; Psalm 1:1-3; Galatians 5:22-23
 
-4. Who has God placed within reach of my ordinary life that I am called to teach, encourage, or help toward obedience to Christ?
-   Verses: Deuteronomy 6:6-7; 2 Timothy 2:2; Hebrews 10:24-25
+4. What old source of identity, security, or comfort am I still clinging to instead of obeying God like Abraham did?
+   Verses: Genesis 12:1-4; Hebrews 11:8-10; Philippians 3:7-8
 
-5. What would it look like for my home, friendships, work, and church life to become usable in the hands of God for disciple-making?
-   Verses: Colossians 3:17; Acts 2:46-47; Matthew 5:16
-
+5. Who has God already placed within reach of my ordinary life that I am called to love, bless, teach, or lead toward Jesus?
+   Verses: Deuteronomy 6:6-7; 2 Timothy 2:2; Matthew 9:36-38
