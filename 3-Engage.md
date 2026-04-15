@@ -1,8 +1,6 @@
 # Chapter 3 - Engage: Bringing Light Into a Searching World
 
-Obedience does not remain an inward conviction or a private program of improvement. It moves outward toward people. That first outward movement is Engage.
-
-That matters because the people around us are not abstractions. They are living with those questions in real time. Is this all life is? Why do I still feel empty? Why am I so tired? Why does my life look full and still feel directionless? Some ask those questions aloud. Many carry them in silence. The church does not answer that ache by staying inside analysis alone. It moves toward people.
+The calling to move outward begins with seeing the people already near us. They are not abstractions. They are carrying real questions in real time. Is this all life is? Why do I still feel empty? Why am I so tired? Why does my life look full and still feel directionless? Some ask those questions aloud. Many carry them in silence. The church cannot answer that ache by staying inside its own walls. It must move toward people. That first outward movement is Engage.
 
 ## The First Movement of Love
 

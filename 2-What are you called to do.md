@@ -1,6 +1,6 @@
 # Chapter 2 - What Are You Called to Do?
 
-Once identity is recovered, another question rises immediately: what is that identity for? A person who hears that he was made by God, known by God, and claimed by Christ cannot stop with self-understanding alone. He has to ask what he is called to do with his one life.
+Identity answered is not identity completed. A person who hears that he was made by God, known by God, and claimed by Christ cannot stop with self-understanding alone. He has to ask what he is called to do with his one life.
 
 Most people do not ask that question in formal ministry language. They ask it in the quiet after another full day that still felt strangely empty. If my life belongs to God, what is it for? How do work, family, suffering, obedience, and witness become more than survival? How does a life stop circling itself?
 

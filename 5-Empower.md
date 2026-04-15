@@ -1,8 +1,8 @@
 # Chapter 5 - Empower: From Formation to Fruitful Multiplication
 
-Believers who are being formed must not remain spectators. Once people are rooted in Christ, the church has to decide what it will do with them. The answer is not complicated, though many churches still resist it: equip them, entrust them, and release them into the work of ministry.
+Once people are rooted in Christ, the church has to decide what it will do with them. The answer is not complicated, though many churches still resist it: equip them, entrust them, and release them into the work of ministry.
 
-That matters because believers without clear purpose eventually shrink inward. The same thing happens inside the church. A believer can attend faithfully, serve where asked, and still never be entrusted with a person, a table, a prayer burden, or a real share in the work. That is not protection. It is slow diminishment. People who have been brought to Christ and rooted in Christ must not remain spectators.
+That matters because believers without clear purpose eventually shrink inward. A person can attend faithfully, serve where asked, and still never be entrusted with a person, a table, a prayer burden, or a real share in the work. That is not protection. It is slow diminishment. Formed believers who are never released grow restless, passive, or quietly purposeless, and the body of Christ loses the very laborers it needs most.
 
 ## Commissioned, Not Contained
 
