@@ -94,7 +94,7 @@ But when God's mission becomes clear, life changes. Ordinary work matters. Paren
 
 The question of identity is therefore also a question of authority. Will your life be named by desire, fear, success, failure, or by the Lord who made you? The church's answer has to begin by hearing His voice again.
 
-## How God Names and Sends You
+## The Answer That Changes Everything
 
 So who are you?
 
@@ -108,7 +108,7 @@ In Christ, you are called into a life that has direction, dignity, and assignmen
 
 That is why this question matters so much. If you do not know who you are, you will let the world tell you. You will let success name you, failure shame you, desire steer you, fear shrink you, and routine numb you. But if you hear God's answer, then your life can be reassembled around truth. Then your work can become stewardship instead of slavery. Then your relationships can become places of service instead of self-need. Then your suffering can be endured with hope. Then your future does not have to be built on panic.
 
-God did not save you so that you could spend your one life endlessly circling yourself. He saved you so that the life of Christ would take shape in you and shine through you. He saved you so that your home, your friendships, your work, your words, your choices, and your witness would belong to Him. He saved you so that you would live on purpose.
+That is what it means to be saved on purpose. Christ did not redeem you for aimless comfort. He saved you so that the life of Christ would take shape in you and shine through you. He saved you so that your home, your friendships, your work, your words, your choices, and your witness would belong to Him.
 
 And that is the burden of this chapter: before believers and churches can recover clarity, they must recover identity. Before we ask what we are called to do, we must answer in the presence of God: Who am I? Who does God say I am? Why am I here?
 

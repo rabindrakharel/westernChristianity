@@ -128,6 +128,8 @@ This is how leadership serves renewal. Not by spectacle. Not by vague permission
 
 ## Here Am I
 
+All of this begins somewhere. Not with a strategy document or a leadership conference, but with a person who has stood before God and been undone.
+
 Isaiah gives the right order. He sees the holiness of God, becomes aware of his uncleanness, receives cleansing, and then hears the call. Only then does he say, "Here am I. Send me."
 
 That is still the order. Encounter. Repentance. Grace. Surrender. Then leadership.
